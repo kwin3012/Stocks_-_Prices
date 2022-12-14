@@ -77,14 +77,29 @@ mycursor.execute("SELECT * FROM 30day_prices")
 for x in mycursor:
     print(x)
 
+
 # Note: the 30day_prices table contains around 70000 rows 2300 data rows for each day i.e 2300x30.  
 
-# FINAL QUERY
+# FINAL QUERY 2
 mycursor.execute("""select * from 
     (select date, symbol, row_number() over (partition by date order by (close_price-open_price)/open_price desc) as stock_rank           
     from 30day_prices
     where series = "EQ") ranks
     where stock_rank<=25
+    """)
+for x in mycursor:
+    print(*x)
+
+# FINAL QUERY 3
+mycursor.execute("""select symbol as sym     
+    from 30day_prices
+    where series = "EQ"
+    group by symbol
+    having count(date)=30
+    order by ((select close_price from 30day_prices where symbol=sym AND date="2022-12-13" AND series = "EQ"
+    group by symbol) - (select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
+    group by symbol))/(select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
+    group by symbol) DESC limit 25
     """)
 for x in mycursor:
     print(*x)
