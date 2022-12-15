@@ -80,7 +80,7 @@ for x in mycursor:
 
 # Note: the 30day_prices table contains around 70000 rows 2300 data rows for each day i.e 2300x30.
 
-# answer2 = []
+answer2 = []
 f2 = open('Query_2_Output.txt', 'w')
 answer2.append("Date" + "|" + "Name" + "|" + "Symbol " + "|" + "Respective Rank" + "|" + "\n")  
 
