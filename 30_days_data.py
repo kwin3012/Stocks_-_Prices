@@ -82,17 +82,17 @@ for x in mycursor:
 
 answer2 = []
 f2 = open('Query_2_Output.txt', 'w')
-answer2.append("Date" + "|" + "Name" + "|" + "Symbol " + "|" + "Respective Rank" + "|" + "\n")  
+answer2.append("Date" + "|" + "Name" + "|" + "Symbol" + "|" + "Gains" + "|" + "Respective Rank" + "|" + "\n")  
 
 # FINAL QUERY 2
 mycursor.execute("""select * from 
-    (select 30day_prices.date, stocks.name, 30day_prices.symbol, row_number() over (partition by date order by (30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price desc) as stock_rank           
+    (select 30day_prices.date, stocks.name, 30day_prices.symbol, ((30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price), row_number() over (partition by date order by (30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price desc) as stock_rank           
     from stocks,30day_prices
     where 30day_prices.series = "EQ" AND stocks.symbol = 30day_prices.symbol) ranks
     where stock_rank<=25
     """)
 for x in mycursor:
-    answer2.append(str(x[0]) + "|" + x[1] + "|" + x[2] + "|" + str(x[3]) + "|" + "\n")
+    answer2.append(str(x[0]) + "|" + x[1] + "|" + x[2] + "|" + str(x[3]) + "|" + str(x[4]) + "|" + "\n")
 
 f2.writelines(answer2)
 f2.close()
@@ -100,23 +100,22 @@ f2.close()
 
 answer3 = []
 f3 = open('Query_3_Output.txt', 'w')
-answer3.append("Rank" + "|" + "Name" + "|" + "Symbol " + "|" + "\n")  
+answer3.append("Rank" + "|" + "Name" + "|" + "Symbol" + "|" + "Gains" + "|" + "\n")  
 
 
 # FINAL QUERY 3
-mycursor.execute("""select stocks.name, 30day_prices.symbol as sym     
+mycursor.execute("""select stocks.name, 30day_prices.symbol as sym, ((select A.close_price from 30day_prices A where A.symbol=sym AND A.date="2022-12-13" AND A.series = "EQ") - (select B.open_price from 30day_prices B where B.symbol=sym AND B.date="2022-11-01" AND B.series = "EQ"
+    ))/(select C.open_price from 30day_prices C where C.symbol=sym AND C.date="2022-11-01" AND C.series = "EQ") as gains   
     from stocks,30day_prices
     where 30day_prices.series = "EQ" AND  stocks.symbol = 30day_prices.symbol
-    group by 30day_prices.symbol
+    group by 30day_prices.symbol 
     having count(30day_prices.date)=30
-    order by ((select close_price from 30day_prices where symbol=sym AND date="2022-12-13" AND series = "EQ"
-    group by symbol) - (select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
-    group by symbol))/(select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
-    group by symbol) DESC limit 25
+    order by gains
+    DESC limit 25
     """)
 i = 1
 for x in mycursor:
-    answer3.append(str(i) + "|" + x[0] + "|" + x[1] + "\n")
+    answer3.append(str(i) + "|" + x[0] + "|" + x[1] + "|" + str(x[2]) + "\n")
     i+=1
 
 f3.writelines(answer3)

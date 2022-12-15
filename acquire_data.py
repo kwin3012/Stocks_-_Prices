@@ -13,8 +13,8 @@ bhavcopy = pd.read_csv('https://archives.nseindia.com/content/historical/EQUITIE
 # Connected to MySQL with the help of mysql connector in python
 mydb = mysql.connector.connect(
   host="localhost",
-  user="user",
-  password="password",
+  user="root",
+  password="admin@123",
   database="stocks_assignment"
 )
 # print(my_database)
@@ -82,10 +82,6 @@ mycursor.execute( """CREATE TABLE prices (
   );"""
 )
 
-# 9) alter table 
-mycursor.execute("""ALTER TABLE prices
-DROP PRIMARY KEY""")
-
 # 9) describe table
 mycursor.execute("DESCRIBE prices")
 for x in mycursor:
@@ -107,21 +103,20 @@ print(mycursor.rowcount, "was inserted.")
 
 answer = []
 f1 = open('Query_1_Output.txt', 'w')
-answer.append("Rank" + "|" + "Name" + "|" + "Symbol " + "|" + "\n")
+answer.append("Rank" + "|" + "Name" + "|" + "Symbol" + "|" + "Gains" + "|" + "\n")
 
 # FINAL QUERY 1
-mycursor.execute("""SELECT stocks.name,prices.symbol from stocks,prices
+mycursor.execute("""SELECT stocks.name,prices.symbol, ((prices.close_price-prices.open_price)/prices.open_price) as gains from stocks,prices
     where prices.series = "EQ" AND stocks.symbol = prices.symbol
-    order by (prices.close_price-prices.open_price)/prices.open_price DESC
+    order by gains DESC
     limit 25""")
 i = 1
 for x in mycursor:
-    answer.append(str(i) + "|" + x[0] + "|" + x[1] + "|" + "\n")
+    answer.append(str(i) + "|" + x[0] + "|" + x[1] + "|" + str(x[2]) + "|" + "\n")
     i+=1
 
 f1.writelines(answer)
 f1.close()
-
 
 print("Excution Successfull")
 

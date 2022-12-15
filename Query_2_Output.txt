@@ -1,751 +1,751 @@
-Date|Name|Symbol |Respective Rank|
-2022-11-01|Dangee Dums Limited|DANGEE|1|
-2022-11-01|Orissa Bengal Carrier Limited|OBCL|2|
-2022-11-01|Suryalakshmi Cotton Mills Limited|SURYALAXMI|3|
-2022-11-01|STL Global Limited|SGL|4|
-2022-11-01|Bang Overseas Limited|BANG|5|
-2022-11-01|Univastu India Limited|UNIVASTU|6|
-2022-11-01|Magnum Ventures Limited|MAGNUM|7|
-2022-11-01|Nila Infrastructures Limited|NILAINFRA|8|
-2022-11-01|Tips Films Limited|TIPSFILMS|9|
-2022-11-01|Creative Newtech Limited|CREATIVE|10|
-2022-11-01|Alkali Metals Limited|ALKALI|11|
-2022-11-01|Pokarna Limited|POKARNA|12|
-2022-11-01|Himatsingka Seide Limited|HIMATSEIDE|13|
-2022-11-01|Salona Cotspin Limited|SALONA|14|
-2022-11-01|AXISCADES Technologies Limited|AXISCADES|15|
-2022-11-01|Delhivery Limited|DELHIVERY|16|
-2022-11-01|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|17|
-2022-11-01|Max Ventures and Industries Limited|MAXVIL|18|
-2022-11-01|Automotive Stampings and Assemblies Limited|ASAL|19|
-2022-11-01|Setubandhan Infrastructure Limited|SETUINFRA|20|
-2022-11-01|Aarti Surfactants Limited|AARTISURF|21|
-2022-11-01|Simbhaoli Sugars Limited|SIMBHALS|22|
-2022-11-01|Dynemic Products Limited|DYNPRO|23|
-2022-11-01|Megasoft Limited|MEGASOFT|24|
-2022-11-01|Silly Monks Entertainment Limited|SILLYMONKS|25|
-2022-11-02|T T Limited|TTL|1|
-2022-11-02|Tracxn Technologies Limited|TRACXN|2|
-2022-11-02|IFCI Limited|IFCI|3|
-2022-11-02|Eimco Elecon (India) Limited|EIMCOELECO|4|
-2022-11-02|Delta Manufacturing Limited|DELTAMAGNT|5|
-2022-11-02|Mazagon Dock Shipbuilders Limited|MAZDOCK|6|
-2022-11-02|Dc Infotech And Communication Limited|DCI|7|
-2022-11-02|Goldiam International Limited|GOLDIAM|8|
-2022-11-02|Vineet Laboratories Limited|VINEETLAB|9|
-2022-11-02|Prudent Corporate Advisory Services Limited|PRUDENT|10|
-2022-11-02|Lypsa Gems & Jewellery Limited|LYPSAGEMS|11|
-2022-11-02|AXISCADES Technologies Limited|AXISCADES|12|
-2022-11-02|Art Nirman Limited|ARTNIRMAN|13|
-2022-11-02|Ortin Laboratories Limited|ORTINLAB|14|
-2022-11-02|Cineline India Limited|CINELINE|15|
-2022-11-02|Electronics Mart India Limited|EMIL|16|
-2022-11-02|Hindustan Oil Exploration Company Limited|HINDOILEXP|17|
-2022-11-02|Sonam Clock Limited|SONAMCLOCK|18|
-2022-11-02|S. P. Apparels Limited|SPAL|19|
-2022-11-02|Siyaram Silk Mills Limited|SIYSIL|20|
-2022-11-02|JBF Industries Limited|JBFIND|21|
-2022-11-02|Garden Reach Shipbuilders & Engineers Limited|GRSE|22|
-2022-11-02|Jindal Poly Investment and Finance Company Limited|JPOLYINVST|23|
-2022-11-02|Agro Phos India Limited|AGROPHOS|24|
-2022-11-02|Nahar Capital and Financial Services Limited|NAHARCAP|25|
-2022-11-03|Mahalaxmi Rubtech Limited|MHLXMIRU|1|
-2022-11-03|Southern Petrochemicals Industries Corporation  Limited|SPIC|2|
-2022-11-03|Excel Realty N Infra Limited|EXCEL|3|
-2022-11-03|Weizmann Limited|WEIZMANIND|4|
-2022-11-03|Murudeshwar Ceramics Limited|MURUDCERA|5|
-2022-11-03|Indigo Paints Limited|INDIGOPNTS|6|
-2022-11-03|Medicamen Biotech Limited|MEDICAMEQ|7|
-2022-11-03|Geekay Wires Limited|GEEKAYWIRE|8|
-2022-11-03|Vaxtex Cotfab Limited|VCL|9|
-2022-11-03|MAS Financial Services Limited|MASFIN|10|
-2022-11-03|Eveready Industries India Limited|EVEREADY|11|
-2022-11-03|United Polyfab Gujarat Limited|UNITEDPOLY|12|
-2022-11-03|DCM Nouvelle Limited|DCMNVL|13|
-2022-11-03|Arihant Superstructures Limited|ARIHANTSUP|14|
-2022-11-03|RITES Limited|RITES|15|
-2022-11-03|Ajooni Biotech Limited|AJOONI|16|
-2022-11-03|Alembic Pharmaceuticals Limited|APLLTD|17|
-2022-11-03|Cyber Media (India) Limited|CYBERMEDIA|18|
-2022-11-03|Raymond Limited|RAYMOND|19|
-2022-11-03|Visa Steel Limited|VISASTEEL|20|
-2022-11-03|Industrial Investment Trust Limited|IITL|21|
-2022-11-03|Elecon Engineering Company Limited|ELECON|22|
-2022-11-03|Arman Financial Services Limited|ARMANFIN|23|
-2022-11-03|T T Limited|TTL|24|
-2022-11-03|Piramal Enterprises Limited|PEL|25|
-2022-11-04|Goa Carbon Limited|GOACARBON|1|
-2022-11-04|Cerebra Integrated Technologies Limited|CEREBRAINT|2|
-2022-11-04|Remsons Industries Limited|REMSONSIND|3|
-2022-11-04|The Karnataka Bank Limited|KTKBANK|4|
-2022-11-04|Silly Monks Entertainment Limited|SILLYMONKS|5|
-2022-11-04|A2Z Infra Engineering Limited|A2ZINFRA|6|
-2022-11-04|Ndr Auto Components Limited|NDRAUTO|7|
-2022-11-04|PDS Limited|PDSL|8|
-2022-11-04|Indian Overseas Bank|IOB|9|
-2022-11-04|Cubex Tubings Limited|CUBEXTUB|10|
-2022-11-04|AXISCADES Technologies Limited|AXISCADES|11|
-2022-11-04|Rainbow Childrens Medicare Limited|RAINBOW|12|
-2022-11-04|Sonam Clock Limited|SONAMCLOCK|13|
-2022-11-04|Action Construction Equipment Limited|ACE|14|
-2022-11-04|Refex Industries Limited|REFEX|15|
-2022-11-04|Dhanlaxmi Bank Limited|DHANBANK|16|
-2022-11-04|Punjab & Sind Bank|PSB|17|
-2022-11-04|Gillanders Arbuthnot & Company Limited|GILLANDERS|18|
-2022-11-04|Repco Home Finance Limited|REPCOHOME|19|
-2022-11-04|JK Lakshmi Cement Limited|JKLAKSHMI|20|
-2022-11-04|ISMT Limited|ISMTLTD|21|
-2022-11-04|Visa Steel Limited|VISASTEEL|22|
-2022-11-04|Vimta Labs Limited|VIMTALABS|23|
-2022-11-04|Indian Terrain Fashions Limited|INDTERRAIN|24|
-2022-11-04|Windsor Machines Limited|WINDMACHIN|25|
-2022-11-07|Khaitan (India) Limited|KHAITANLTD|1|
-2022-11-07|Mangalam Organics Limited|MANORG|2|
-2022-11-07|Flexituff Ventures International Limited|FLEXITUFF|3|
-2022-11-07|Jindal Worldwide Limited|JINDWORLD|4|
-2022-11-07|SPL Industries Limited|SPLIL|5|
-2022-11-07|Magnum Ventures Limited|MAGNUM|6|
-2022-11-07|Jayaswal Neco Industries Limited|JAYNECOIND|7|
-2022-11-07|HB Stockholdings Limited|HBSL|8|
-2022-11-07|Emami Realty Limited|EMAMIREAL|9|
-2022-11-07|NIIT Limited|NIITLTD|10|
-2022-11-07|Crown Lifters Limited|CROWN|11|
-2022-11-07|Simplex Infrastructures Limited|SIMPLEXINF|12|
-2022-11-07|JM Financial Limited|JMFINANCIL|13|
-2022-11-07|Dhanlaxmi Bank Limited|DHANBANK|14|
-2022-11-07|D-Link (India) Limited|DLINKINDIA|15|
-2022-11-07|Salona Cotspin Limited|SALONA|16|
-2022-11-07|Genus Paper & Boards Limited|GENUSPAPER|17|
-2022-11-07|Smartlink Holdings Limited|SMARTLINK|18|
-2022-11-07|Focus Lighting and Fixtures Limited|FOCUS|19|
-2022-11-07|Rail Vikas Nigam Limited|RVNL|20|
-2022-11-07|The Great Eastern Shipping Company Limited|GESHIP|21|
-2022-11-07|The Byke Hospitality Ltd|BYKE|22|
-2022-11-07|Sarthak Metals Limited|SMLT|23|
-2022-11-07|Goyal Aluminiums Limited|GOYALALUM|24|
-2022-11-07|Kohinoor Foods Limited|KOHINOOR|25|
-2022-11-09|Dangee Dums Limited|DANGEE|1|
-2022-11-09|Country Condo's Limited|COUNCODOS|2|
-2022-11-09|HLV LIMITED|HLVLTD|3|
-2022-11-09|Ind-Swift Laboratories Limited|INDSWFTLAB|4|
-2022-11-09|Magnum Ventures Limited|MAGNUM|5|
-2022-11-09|KPI Green Energy Limited|KPIGREEN|6|
-2022-11-09|Moksh Ornaments Limited|MOKSH|7|
-2022-11-09|Foods & Inns Limited|FOODSIN|8|
-2022-11-09|Ind-Swift Limited|INDSWFTLTD|9|
-2022-11-09|MPS Limited|MPSLTD|10|
-2022-11-09|NGL Fine-Chem Limited|NGLFINE|11|
-2022-11-09|Inox Wind Energy Limited|IWEL|12|
-2022-11-09|Union Bank of India|UNIONBANK|13|
-2022-11-09|Igarashi Motors India Limited|IGARASHI|14|
-2022-11-09|Bank of India|BANKINDIA|15|
-2022-11-09|Anmol India Limited|ANMOL|16|
-2022-11-09|Indo Borax & Chemicals Limited|INDOBORAX|17|
-2022-11-09|Focus Lighting and Fixtures Limited|FOCUS|18|
-2022-11-09|Max India Limited|MAXIND|19|
-2022-11-09|Suryoday Small Finance Bank Limited|SURYODAY|20|
-2022-11-09|Integra Essentia Limited|ESSENTIA|21|
-2022-11-09|Universal Cables Limited|UNIVCABLES|22|
-2022-11-09|SMS Pharmaceuticals Limited|SMSPHARMA|23|
-2022-11-09|Marine Electricals (India) Limited|MARINE|24|
-2022-11-09|Vertoz Advertising Limited|VERTOZ|25|
-2022-11-10|Neuland Laboratories Limited|NEULANDLAB|1|
-2022-11-10|Par Drugs And Chemicals Limited|PAR|2|
-2022-11-10|FSN E-Commerce Ventures Limited|NYKAA|3|
-2022-11-10|BSL Limited|BSL|4|
-2022-11-10|Sanghvi Movers Limited|SANGHVIMOV|5|
-2022-11-10|TVS Srichakra Limited|TVSSRICHAK|6|
-2022-11-10|Prince Pipes And Fittings Limited|PRINCEPIPE|7|
-2022-11-10|Hariom Pipe Industries Limited|HARIOMPIPE|8|
-2022-11-10|ION Exchange (India) Limited|IONEXCHANG|9|
-2022-11-10|Nesco Limited|NESCO|10|
-2022-11-10|Esab India Limited|ESABINDIA|11|
-2022-11-10|Godrej Properties Limited|GODREJPROP|12|
-2022-11-10|Naga Dhunseri Group Limited|NDGL|13|
-2022-11-10|Hindustan Motors Limited|HINDMOTORS|14|
-2022-11-10|Wonderla Holidays Limited|WONDERLA|15|
-2022-11-10|Vertoz Advertising Limited|VERTOZ|16|
-2022-11-10|Palash Securities Limited|PALASHSECU|17|
-2022-11-10|Damodar Industries Limited|DAMODARIND|18|
-2022-11-10|Grauer & Weil (India) Limited|GRAUWEIL|19|
-2022-11-10|Royal Orchid Hotels Limited|ROHLTD|20|
-2022-11-10|Sikko Industries Limited|SIKKO|21|
-2022-11-10|Electrosteel Castings Limited|ELECTCAST|22|
-2022-11-10|Kirloskar Oil Engines Limited|KIRLOSENG|23|
-2022-11-10|Rama Steel Tubes Limited|RAMASTEEL|24|
-2022-11-10|Tokyo Plast International Limited|TOKYOPLAST|25|
-2022-11-11|Lumax Industries Limited|LUMAXIND|1|
-2022-11-11|Gillanders Arbuthnot & Company Limited|GILLANDERS|2|
-2022-11-11|Swan Energy Limited|SWANENERGY|3|
-2022-11-11|Rossell India Limited|ROSSELLIND|4|
-2022-11-11|Banswara Syntex Limited|BANSWRAS|5|
-2022-11-11|Zomato Limited|ZOMATO|6|
-2022-11-11|Hindustan Foods Limited|HNDFDS|7|
-2022-11-11|Cochin Shipyard Limited|COCHINSHIP|8|
-2022-11-11|Lotus Eye Hospital and Institute Limited|LOTUSEYE|9|
-2022-11-11|Saksoft Limited|SAKSOFT|10|
-2022-11-11|FSN E-Commerce Ventures Limited|NYKAA|11|
-2022-11-11|RPG Life Sciences Limited|RPGLIFE|12|
-2022-11-11|DCX Systems Limited|DCXINDIA|13|
-2022-11-11|Arvind SmartSpaces Limited|ARVSMART|14|
-2022-11-11|SMS Pharmaceuticals Limited|SMSPHARMA|15|
-2022-11-11|Kennametal India Limited|KENNAMET|16|
-2022-11-11|Allcargo Logistics Limited|ALLCARGO|17|
-2022-11-11|Bang Overseas Limited|BANG|18|
-2022-11-11|Lumax Auto Technologies Limited|LUMAXTECH|19|
-2022-11-11|SecUR Credentials Limited|SECURCRED|20|
-2022-11-11|TVS Srichakra Limited|TVSSRICHAK|21|
-2022-11-11|Rajesh Exports Limited|RAJESHEXPO|22|
-2022-11-11|Affle (India) Limited|AFFLE|23|
-2022-11-11|PB Fintech Limited|POLICYBZR|24|
-2022-11-11|Housing Development Finance Corporation Limited|HDFC|25|
-2022-11-14|GSS Infotech Limited|GSS|1|
-2022-11-14|Rossell India Limited|ROSSELLIND|2|
-2022-11-14|Trident Limited|TRIDENT|3|
-2022-11-14|Kirloskar Brothers Limited|KIRLOSBROS|4|
-2022-11-14|Marathon Nextgen Realty Limited|MARATHON|5|
-2022-11-14|AXISCADES Technologies Limited|AXISCADES|6|
-2022-11-14|Fiem Industries Limited|FIEMIND|7|
-2022-11-14|Dredging Corporation of India Limited|DREDGECORP|8|
-2022-11-14|Jtekt India Limited|JTEKTINDIA|9|
-2022-11-14|Dishman Carbogen Amcis Limited|DCAL|10|
-2022-11-14|Neuland Laboratories Limited|NEULANDLAB|11|
-2022-11-14|Hilton Metal Forging Limited|HILTON|12|
-2022-11-14|Krishna Institute of Medical Sciences Limited|KIMS|13|
-2022-11-14|Raymond Limited|RAYMOND|14|
-2022-11-14|Manappuram Finance Limited|MANAPPURAM|15|
-2022-11-14|Strides Pharma Science Limited|STAR|16|
-2022-11-14|Cineline India Limited|CINELINE|17|
-2022-11-14|Skipper Limited|SKIPPER|18|
-2022-11-14|Cerebra Integrated Technologies Limited|CEREBRAINT|19|
-2022-11-14|Hindustan Foods Limited|HNDFDS|20|
-2022-11-14|MMP Industries Limited|MMP|21|
-2022-11-14|Magnum Ventures Limited|MAGNUM|22|
-2022-11-14|Goodluck India Limited|GOODLUCK|23|
-2022-11-14|Repco Home Finance Limited|REPCOHOME|24|
-2022-11-14|Chemfab Alkalis Limited|CHEMFAB|25|
-2022-11-15|Renaissance Global Limited|RGL|1|
-2022-11-15|AksharChem India Limited|AKSHARCHEM|2|
-2022-11-15|Alkali Metals Limited|ALKALI|3|
-2022-11-15|Linc Limited|LINC|4|
-2022-11-15|Bcl Industries Limited|BCLIND|5|
-2022-11-15|Vishnu Chemicals Limited|VISHNU|6|
-2022-11-15|Windsor Machines Limited|WINDMACHIN|7|
-2022-11-15|Indo-National Limited|NIPPOBATRY|8|
-2022-11-15|Balkrishna Industries Limited|BALKRISIND|9|
-2022-11-15|Archies Limited|ARCHIES|10|
-2022-11-15|Rail Vikas Nigam Limited|RVNL|11|
-2022-11-15|Refex Industries Limited|REFEX|12|
-2022-11-15|Gabriel India Limited|GABRIEL|13|
-2022-11-15|Railtel Corporation Of India Limited|RAILTEL|14|
-2022-11-15|Nila Infrastructures Limited|NILAINFRA|15|
-2022-11-15|Johnson Controls - Hitachi Air Conditioning India Limited|JCHAC|16|
-2022-11-15|Vertoz Advertising Limited|VERTOZ|17|
-2022-11-15|Banswara Syntex Limited|BANSWRAS|18|
-2022-11-15|Best Agrolife Limited|BESTAGRO|19|
-2022-11-15|Precision Wires India Limited|PRECWIRE|20|
-2022-11-15|Revathi Equipment Limited|REVATHI|21|
-2022-11-15|NCC Limited|NCC|22|
-2022-11-15|Apar Industries Limited|APARINDS|23|
-2022-11-15|Kirloskar Industries Limited|KIRLOSIND|24|
-2022-11-15|Surya Roshni Limited|SURYAROSNI|25|
-2022-11-16|Lotus Eye Hospital and Institute Limited|LOTUSEYE|1|
-2022-11-16|Rajshree Sugars & Chemicals Limited|RAJSREESUG|2|
-2022-11-16|Housing & Urban Development Corporation Limited|HUDCO|3|
-2022-11-16|Hindustan Construction Company Limited|HCC|4|
-2022-11-16|Global Education Limited|GLOBAL|5|
-2022-11-16|Atul Auto Limited|ATULAUTO|6|
-2022-11-16|Career Point Limited|CAREERP|7|
-2022-11-16|Kirloskar Oil Engines Limited|KIRLOSENG|8|
-2022-11-16|Simbhaoli Sugars Limited|SIMBHALS|9|
-2022-11-16|Dhampur Bio Organics Limited|DBOL|10|
-2022-11-16|Shrenik Limited|SHRENIK|11|
-2022-11-16|KCP Sugar and Industries Corporation Limited|KCPSUGIND|12|
-2022-11-16|Andrew Yule & Company Limited|ANDREWYU|13|
-2022-11-16|Kovai Medical Center and Hospital Limited|KOVAI|14|
-2022-11-16|Honda India Power Products Limited|HONDAPOWER|15|
-2022-11-16|Intrasoft Technologies Limited|ISFT|16|
-2022-11-16|Finolex Industries Limited|FINPIPE|17|
-2022-11-16|Mawana Sugars Limited|MAWANASUG|18|
-2022-11-16|Power Mech Projects Limited|POWERMECH|19|
-2022-11-16|D. P. Abhushan Limited|DPABHUSHAN|20|
-2022-11-16|Dish TV India Limited|DISHTV|21|
-2022-11-16|Ponni Sugars (Erode) Limited|PONNIERODE|22|
-2022-11-16|COSMO FIRST LIMITED|COSMOFIRST|23|
-2022-11-16|Bcl Industries Limited|BCLIND|24|
-2022-11-16|Indian Railway Finance Corporation Limited|IRFC|25|
-2022-11-17|Timken India Limited|TIMKEN|1|
-2022-11-17|Archies Limited|ARCHIES|2|
-2022-11-17|Intrasoft Technologies Limited|ISFT|3|
-2022-11-17|Vaxtex Cotfab Limited|VCL|4|
-2022-11-17|Engineers India Limited|ENGINERSIN|5|
-2022-11-17|Goa Carbon Limited|GOACARBON|6|
-2022-11-17|Chembond Chemicals Ltd|CHEMBOND|7|
-2022-11-17|Bhageria Industries Limited|BHAGERIA|8|
-2022-11-17|Dredging Corporation of India Limited|DREDGECORP|9|
-2022-11-17|Hariom Pipe Industries Limited|HARIOMPIPE|10|
-2022-11-17|Kirloskar Oil Engines Limited|KIRLOSENG|11|
-2022-11-17|Hindustan Construction Company Limited|HCC|12|
-2022-11-17|Vindhya Telelinks Limited|VINDHYATEL|13|
-2022-11-17|Foods & Inns Limited|FOODSIN|14|
-2022-11-17|Balmer Lawrie & Company Limited|BALMLAWRIE|15|
-2022-11-17|Shree Ram Proteins Limited|SRPL|16|
-2022-11-17|Teamlease Services Limited|TEAMLEASE|17|
-2022-11-17|NLC India Limited|NLCINDIA|18|
-2022-11-17|Equitas Holdings Limited|EQUITAS|19|
-2022-11-17|North Eastern Carrying Corporation Limited|NECCLTD|20|
-2022-11-17|Godfrey Phillips India Limited|GODFRYPHLP|21|
-2022-11-17|Universal Cables Limited|UNIVCABLES|22|
-2022-11-17|NACL Industries Limited|NACLIND|23|
-2022-11-17|3P Land Holdings Limited|3PLAND|24|
-2022-11-17|Banka BioLoo Limited|BANKA|25|
-2022-11-18|Biofil Chemicals & Pharmaceuticals Limited|BIOFILCHEM|1|
-2022-11-18|IFB Industries Limited|IFBIND|2|
-2022-11-18|Vaishali Pharma Limited|VAISHALI|3|
-2022-11-18|Revathi Equipment Limited|REVATHI|4|
-2022-11-18|Alicon Castalloy Limited|ALICON|5|
-2022-11-18|Focus Lighting and Fixtures Limited|FOCUS|6|
-2022-11-18|Honda India Power Products Limited|HONDAPOWER|7|
-2022-11-18|IZMO Limited|IZMO|8|
-2022-11-18|Kokuyo Camlin Limited|KOKUYOCMLN|9|
-2022-11-18|Shivalik Rasayan Limited|SHIVALIK|10|
-2022-11-18|Cyber Media (India) Limited|CYBERMEDIA|11|
-2022-11-18|Bank of Maharashtra|MAHABANK|12|
-2022-11-18|TCPL Packaging Limited|TCPLPACK|13|
-2022-11-18|Medicamen Biotech Limited|MEDICAMEQ|14|
-2022-11-18|Sirca Paints India Limited|SIRCA|15|
-2022-11-18|Esab India Limited|ESABINDIA|16|
-2022-11-18|Lumax Industries Limited|LUMAXIND|17|
-2022-11-18|Supreme Engineering Limited|SUPREMEENG|18|
-2022-11-18|Graphite India Limited|GRAPHITE|19|
-2022-11-18|Royal Orchid Hotels Limited|ROHLTD|20|
-2022-11-18|PB Fintech Limited|POLICYBZR|21|
-2022-11-18|Kalyani Steels Limited|KSL|22|
-2022-11-18|Oswal Chemicals & Fertilizers Limited|BINDALAGRO|23|
-2022-11-18|Indiabulls Real Estate Limited|IBREALEST|24|
-2022-11-18|Piramal Pharma Limited|PPLPHARMA|25|
-2022-11-21|Kabra Extrusion Technik Limited|KABRAEXTRU|1|
-2022-11-21|Alpa Laboratories Limited|ALPA|2|
-2022-11-21|UCO Bank|UCOBANK|3|
-2022-11-21|Skipper Limited|SKIPPER|4|
-2022-11-21|Swan Energy Limited|SWANENERGY|5|
-2022-11-21|Bank of Maharashtra|MAHABANK|6|
-2022-11-21|Creative Newtech Limited|CREATIVE|7|
-2022-11-21|Nakoda Group of Industries Limited|NGIL|8|
-2022-11-21|Refex Industries Limited|REFEX|9|
-2022-11-21|Ganga Forging Limited|GANGAFORGE|10|
-2022-11-21|Punjab & Sind Bank|PSB|11|
-2022-11-21|IZMO Limited|IZMO|12|
-2022-11-21|Central Bank of India|CENTRALBK|13|
-2022-11-21|Indian Overseas Bank|IOB|14|
-2022-11-21|IFCI Limited|IFCI|15|
-2022-11-21|Escorts Kubota Limited|ESCORTS|16|
-2022-11-21|Easy Trip Planners Limited|EASEMYTRIP|17|
-2022-11-21|Madras Fertilizers Limited|MADRASFERT|18|
-2022-11-21|Dish TV India Limited|DISHTV|19|
-2022-11-21|Vaishali Pharma Limited|VAISHALI|20|
-2022-11-21|Marksans Pharma Limited|MARKSANS|21|
-2022-11-21|Nagreeka Exports Limited|NAGREEKEXP|22|
-2022-11-21|Finolex Cables Limited|FINCABLES|23|
-2022-11-21|Camlin Fine Sciences Limited|CAMLINFINE|24|
-2022-11-21|Dhanlaxmi Bank Limited|DHANBANK|25|
-2022-11-22|Sadbhav Engineering Limited|SADBHAV|1|
-2022-11-22|Welspun Investments and Commercials Limited|WELINV|2|
-2022-11-22|Kopran Limited|KOPRAN|3|
-2022-11-22|Airo Lam limited|AIROLAM|4|
-2022-11-22|BSL Limited|BSL|5|
-2022-11-22|Easy Trip Planners Limited|EASEMYTRIP|6|
-2022-11-22|Mazagon Dock Shipbuilders Limited|MAZDOCK|7|
-2022-11-22|Sintercom India Limited|SINTERCOM|8|
-2022-11-22|Lotus Eye Hospital and Institute Limited|LOTUSEYE|9|
-2022-11-22|Mirza International Limited|MIRZAINT|10|
-2022-11-22|Hi-Tech Pipes Limited|HITECH|11|
-2022-11-22|Shivalik Bimetal Controls Limited|SBCL|12|
-2022-11-22|Gandhi Special Tubes Limited|GANDHITUBE|13|
-2022-11-22|ISMT Limited|ISMTLTD|14|
-2022-11-22|Wealth First Portfolio Managers Limited|WEALTH|15|
-2022-11-22|Garden Reach Shipbuilders & Engineers Limited|GRSE|16|
-2022-11-22|Arshiya Limited|ARSHIYA|17|
-2022-11-22|Tarapur Transformers Limited|TARAPUR|18|
-2022-11-22|UCO Bank|UCOBANK|19|
-2022-11-22|Jaiprakash Associates Limited|JPASSOCIAT|20|
-2022-11-22|Diligent Media Corporation Limited|DNAMEDIA|21|
-2022-11-22|Dhunseri Ventures Limited|DVL|22|
-2022-11-22|Onelife Capital Advisors Limited|ONELIFECAP|23|
-2022-11-22|United Polyfab Gujarat Limited|UNITEDPOLY|24|
-2022-11-22|Hindustan Foods Limited|HNDFDS|25|
-2022-11-23|Iris Business Services Limited|IRIS|1|
-2022-11-23|Fino Payments Bank Limited|FINOPB|2|
-2022-11-23|Surana Solar Limited|SURANASOL|3|
-2022-11-23|Vascon Engineers Limited|VASCONEQ|4|
-2022-11-23|RHI MAGNESITA INDIA LIMITED|RHIM|5|
-2022-11-23|Welspun Investments and Commercials Limited|WELINV|6|
-2022-11-23|Marshall Machines Limited|MARSHALL|7|
-2022-11-23|Rashtriya Chemicals and Fertilizers Limited|RCF|8|
-2022-11-23|Surana Telecom and Power Limited|SURANAT&P|9|
-2022-11-23|Fertilizers and Chemicals Travancore Limited|FACT|10|
-2022-11-23|Rail Vikas Nigam Limited|RVNL|11|
-2022-11-23|Sadbhav Engineering Limited|SADBHAV|12|
-2022-11-23|Bikaji Foods International Limited|BIKAJI|13|
-2022-11-23|National Fertilizers Limited|NFL|14|
-2022-11-23|Tips Films Limited|TIPSFILMS|15|
-2022-11-23|Times Guaranty Limited|TIMESGTY|16|
-2022-11-23|Orient Abrasives Limited|ORIENTABRA|17|
-2022-11-23|Vikas EcoTech Limited|VIKASECO|18|
-2022-11-23|Suryalakshmi Cotton Mills Limited|SURYALAXMI|19|
-2022-11-23|NBCC (India) Limited|NBCC|20|
-2022-11-23|Railtel Corporation Of India Limited|RAILTEL|21|
-2022-11-23|Art Nirman Limited|ARTNIRMAN|22|
-2022-11-23|Inspirisys Solutions Limited|INSPIRISYS|23|
-2022-11-23|Onward Technologies Limited|ONWARDTEC|24|
-2022-11-23|IVP Limited|IVP|25|
-2022-11-24|Indbank Merchant Banking Services Limited|INDBANK|1|
-2022-11-24|BSL Limited|BSL|2|
-2022-11-24|Bharat Road Network Limited|BRNL|3|
-2022-11-24|Nagreeka Exports Limited|NAGREEKEXP|4|
-2022-11-24|Rossell India Limited|ROSSELLIND|5|
-2022-11-24|Coffee Day Enterprises Limited|COFFEEDAY|6|
-2022-11-24|Olectra Greentech Limited|OLECTRA|7|
-2022-11-24|Ducon Infratechnologies Limited|DUCON|8|
-2022-11-24|Super Spinning Mills Limited|SUPERSPIN|9|
-2022-11-24|Suumaya Industries Limited|SUULD|10|
-2022-11-24|Gujarat State Petronet Limited|GSPL|11|
-2022-11-24|Dish TV India Limited|DISHTV|12|
-2022-11-24|Themis Medicare Limited|THEMISMED|13|
-2022-11-24|Marathon Nextgen Realty Limited|MARATHON|14|
-2022-11-24|Ponni Sugars (Erode) Limited|PONNIERODE|15|
-2022-11-24|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|16|
-2022-11-24|Bikaji Foods International Limited|BIKAJI|17|
-2022-11-24|Archean Chemical Industries Limited|ACI|18|
-2022-11-24|Ausom Enterprise Limited|AUSOMENT|19|
-2022-11-24|Fino Payments Bank Limited|FINOPB|20|
-2022-11-24|Tirupati Forge Limited|TIRUPATIFL|21|
-2022-11-24|AXISCADES Technologies Limited|AXISCADES|22|
-2022-11-24|Banka BioLoo Limited|BANKA|23|
-2022-11-24|United Polyfab Gujarat Limited|UNITEDPOLY|24|
-2022-11-24|SJVN Limited|SJVN|25|
-2022-11-25|Excel Realty N Infra Limited|EXCEL|1|
-2022-11-25|Pearl Polymers Limited|PEARLPOLY|2|
-2022-11-25|Dev Information Technology Limited|DEVIT|3|
-2022-11-25|Panama Petrochem Limited|PANAMAPET|4|
-2022-11-25|Indiabulls Housing Finance Limited|IBULHSGFIN|5|
-2022-11-25|India Tourism Development Corporation Limited|ITDC|6|
-2022-11-25|Nath Bio-Genes (India) Limited|NATHBIOGEN|7|
-2022-11-25|BSL Limited|BSL|8|
-2022-11-25|Damodar Industries Limited|DAMODARIND|9|
-2022-11-25|TREJHARA SOLUTIONS LIMITED|TREJHARA|10|
-2022-11-25|FCS Software Solutions Limited|FCSSOFT|11|
-2022-11-25|Zenith Steel Pipes & Industries Limited|ZENITHSTL|12|
-2022-11-25|GE Power India Limited|GEPIL|13|
-2022-11-25|Focus Lighting and Fixtures Limited|FOCUS|14|
-2022-11-25|Bharat Heavy Electricals Limited|BHEL|15|
-2022-11-25|Tata Motors Limited|TATAMTRDVR|16|
-2022-11-25|Hariom Pipe Industries Limited|HARIOMPIPE|17|
-2022-11-25|Asian Energy Services Limited|ASIANENE|18|
-2022-11-25|The South Indian Bank Limited|SOUTHBANK|19|
-2022-11-25|Religare Enterprises Limited|RELIGARE|20|
-2022-11-25|Rajesh Exports Limited|RAJESHEXPO|21|
-2022-11-25|Rail Vikas Nigam Limited|RVNL|22|
-2022-11-25|UTI Asset Management Company Limited|UTIAMC|23|
-2022-11-25|Dish TV India Limited|DISHTV|24|
-2022-11-25|Ashima Limited|ASHIMASYN|25|
-2022-11-28|The State Trading Corporation of India Limited|STCINDIA|1|
-2022-11-28|Damodar Industries Limited|DAMODARIND|2|
-2022-11-28|Mstc Limited|MSTCLTD|3|
-2022-11-28|Ramco Systems Limited|RAMCOSYS|4|
-2022-11-28|Prime Focus Limited|PFOCUS|5|
-2022-11-28|SBC Exports Limited|SBC|6|
-2022-11-28|Prozone Intu Properties Limited|PROZONINTU|7|
-2022-11-28|Rico Auto Industries Limited|RICOAUTO|8|
-2022-11-28|Setco Automotive Limited|SETCO|9|
-2022-11-28|JK Tyre & Industries Limited|JKTYRE|10|
-2022-11-28|Tanla Platforms Limited|TANLA|11|
-2022-11-28|Bikaji Foods International Limited|BIKAJI|12|
-2022-11-28|Dhruv Consultancy Services Limited|DHRUV|13|
-2022-11-28|The Ugar Sugar Works Limited|UGARSUGAR|14|
-2022-11-28|Aarvi Encon Limited|AARVI|15|
-2022-11-28|Morepen Laboratories Limited|MOREPENLAB|16|
-2022-11-28|Sportking India Limited|SPORTKING|17|
-2022-11-28|Ajmera Realty & Infra India Limited|AJMERA|18|
-2022-11-28|MMTC Limited|MMTC|19|
-2022-11-28|Tips Films Limited|TIPSFILMS|20|
-2022-11-28|Andrew Yule & Company Limited|ANDREWYU|21|
-2022-11-28|Akshar Spintex Limited|AKSHAR|22|
-2022-11-28|Arvind SmartSpaces Limited|ARVSMART|23|
-2022-11-28|Agro Tech Foods Limited|ATFL|24|
-2022-11-28|CEAT Limited|CEATLTD|25|
-2022-11-29|Lakshmi Finance & Industrial Corporation Limited|LFIC|1|
-2022-11-29|Bcl Industries Limited|BCLIND|2|
-2022-11-29|SBC Exports Limited|SBC|3|
-2022-11-29|Nagreeka Exports Limited|NAGREEKEXP|4|
-2022-11-29|Nila Infrastructures Limited|NILAINFRA|5|
-2022-11-29|Prime Focus Limited|PFOCUS|6|
-2022-11-29|Alkali Metals Limited|ALKALI|7|
-2022-11-29|The New India Assurance Company Limited|NIACL|8|
-2022-11-29|Bhandari Hosiery Exports Limited|BHANDARI|9|
-2022-11-29|Radhika Jeweltech Limited|RADHIKAJWE|10|
-2022-11-29|Tide Water Oil Company (India) Limited|TIDEWATER|11|
-2022-11-29|Chembond Chemicals Ltd|CHEMBOND|12|
-2022-11-29|ADF Foods Limited|ADFFOODS|13|
-2022-11-29|Accelya Solutions India Limited|ACCELYA|14|
-2022-11-29|DCM  Limited|DCM|15|
-2022-11-29|Globe Textiles (India) Limited|GLOBE|16|
-2022-11-29|Uma Exports Limited|UMAEXPORTS|17|
-2022-11-29|Airan Limited|AIRAN|18|
-2022-11-29|United Polyfab Gujarat Limited|UNITEDPOLY|19|
-2022-11-29|Prajay Engineers Syndicate Limited|PRAENG|20|
-2022-11-29|KIOCL Limited|KIOCL|21|
-2022-11-29|Dhanlaxmi Bank Limited|DHANBANK|22|
-2022-11-29|JHS Svendgaard Laboratories Limited|JHS|23|
-2022-11-29|Prism Johnson Limited|PRSMJOHNSN|24|
-2022-11-29|Dhampur Bio Organics Limited|DBOL|25|
-2022-11-30|HLV LIMITED|HLVLTD|1|
-2022-11-30|Kridhan Infra Limited|KRIDHANINF|2|
-2022-11-30|Tarmat Limited|TARMAT|3|
-2022-11-30|Rajnandini Metal Limited|RAJMET|4|
-2022-11-30|Cubex Tubings Limited|CUBEXTUB|5|
-2022-11-30|Bhandari Hosiery Exports Limited|BHANDARI|6|
-2022-11-30|Likhitha Infrastructure Limited|LIKHITHA|7|
-2022-11-30|Simplex Infrastructures Limited|SIMPLEXINF|8|
-2022-11-30|Isgec Heavy Engineering Limited|ISGEC|9|
-2022-11-30|Taj GVK Hotels & Resorts Limited|TAJGVK|10|
-2022-11-30|The State Trading Corporation of India Limited|STCINDIA|11|
-2022-11-30|Salasar Techno Engineering Limited|SALASAR|12|
-2022-11-30|DCM  Limited|DCM|13|
-2022-11-30|Rico Auto Industries Limited|RICOAUTO|14|
-2022-11-30|Varun Beverages Limited|VBL|15|
-2022-11-30|Go Fashion (India) Limited|GOCOLORS|16|
-2022-11-30|Housing & Urban Development Corporation Limited|HUDCO|17|
-2022-11-30|Mukand Limited|MUKANDLTD|18|
-2022-11-30|Sakar Healthcare Limited|SAKAR|19|
-2022-11-30|Morarjee Textiles Limited|MORARJEE|20|
-2022-11-30|AVRO INDIA LIMITED|AVROIND|21|
-2022-11-30|Euro India Fresh Foods Limited|EIFFL|22|
-2022-11-30|Lemon Tree Hotels Limited|LEMONTREE|23|
-2022-11-30|Esab India Limited|ESABINDIA|24|
-2022-11-30|Grauer & Weil (India) Limited|GRAUWEIL|25|
-2022-12-01|Premier Polyfilm Limited|PREMIERPOL|1|
-2022-12-01|Weizmann Limited|WEIZMANIND|2|
-2022-12-01|Sadbhav Engineering Limited|SADBHAV|3|
-2022-12-01|HPL Electric & Power Limited|HPL|4|
-2022-12-01|Chemplast Sanmar Limited|CHEMPLASTS|5|
-2022-12-01|Axita Cotton Limited|AXITA|6|
-2022-12-01|Hindustan Motors Limited|HINDMOTORS|7|
-2022-12-01|Jaiprakash Associates Limited|JPASSOCIAT|8|
-2022-12-01|Maral Overseas Limited|MARALOVER|9|
-2022-12-01|L&T Technology Services Limited|LTTS|10|
-2022-12-01|Salasar Techno Engineering Limited|SALASAR|11|
-2022-12-01|Amj Land Holdings Limited|AMJLAND|12|
-2022-12-01|Orient Green Power Company Limited|GREENPOWER|13|
-2022-12-01|TV18 Broadcast Limited|TV18BRDCST|14|
-2022-12-01|Network18 Media & Investments Limited|NETWORK18|15|
-2022-12-01|Dhanlaxmi Bank Limited|DHANBANK|16|
-2022-12-01|Max Ventures and Industries Limited|MAXVIL|17|
-2022-12-01|Subex Limited|SUBEXLTD|18|
-2022-12-01|Sagar Cements Limited|SAGCEM|19|
-2022-12-01|Hatsun Agro Product Limited|HATSUN|20|
-2022-12-01|SIL Investments Limited|SILINV|21|
-2022-12-01|Faze Three Limited|FAZE3Q|22|
-2022-12-01|Timken India Limited|TIMKEN|23|
-2022-12-01|Ircon International Limited|IRCON|24|
-2022-12-01|Sakuma Exports Limited|SAKUMA|25|
-2022-12-02|Skipper Limited|SKIPPER|1|
-2022-12-02|Country Condo's Limited|COUNCODOS|2|
-2022-12-02|Bajaj Hindusthan Sugar Limited|BAJAJHIND|3|
-2022-12-02|Raymond Limited|RAYMOND|4|
-2022-12-02|Pearl Polymers Limited|PEARLPOLY|5|
-2022-12-02|Tokyo Plast International Limited|TOKYOPLAST|6|
-2022-12-02|Delta Manufacturing Limited|DELTAMAGNT|7|
-2022-12-02|Likhitha Infrastructure Limited|LIKHITHA|8|
-2022-12-02|Moksh Ornaments Limited|MOKSH|9|
-2022-12-02|Hindware Home Innovation Limited|HINDWAREAP|10|
-2022-12-02|Ramky Infrastructure Limited|RAMKY|11|
-2022-12-02|Hindustan Construction Company Limited|HCC|12|
-2022-12-02|Rico Auto Industries Limited|RICOAUTO|13|
-2022-12-02|Sakthi Sugars Limited|SAKHTISUG|14|
-2022-12-02|Mtar Technologies Limited|MTARTECH|15|
-2022-12-02|Nelcast Limited|NELCAST|16|
-2022-12-02|Aspinwall and Company Limited|ASPINWALL|17|
-2022-12-02|Airo Lam limited|AIROLAM|18|
-2022-12-02|Aarey Drugs & Pharmaceuticals Limited|AAREYDRUGS|19|
-2022-12-02|Rajshree Sugars & Chemicals Limited|RAJSREESUG|20|
-2022-12-02|Ace Integrated Solutions Limited|ACEINTEG|21|
-2022-12-02|Kothari Sugars And Chemicals Limited|KOTARISUG|22|
-2022-12-02|GE Power India Limited|GEPIL|23|
-2022-12-02|Pearl Global Industries Limited|PGIL|24|
-2022-12-02|HLE Glascoat Limited|HLEGLAS|25|
-2022-12-05|Yaari Digital Integrated Services Limited|YAARI|1|
-2022-12-05|SEPC Limited|SEPC|2|
-2022-12-05|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|3|
-2022-12-05|Satin Creditcare Network Limited|SATIN|4|
-2022-12-05|Sadbhav Engineering Limited|SADBHAV|5|
-2022-12-05|Alpa Laboratories Limited|ALPA|6|
-2022-12-05|Country Condo's Limited|COUNCODOS|7|
-2022-12-05|Sharda Cropchem Limited|SHARDACROP|8|
-2022-12-05|Nagreeka Exports Limited|NAGREEKEXP|9|
-2022-12-05|GTL Infrastructure Limited|GTLINFRA|10|
-2022-12-05|Indian Terrain Fashions Limited|INDTERRAIN|11|
-2022-12-05|JK Lakshmi Cement Limited|JKLAKSHMI|12|
-2022-12-05|The Hi-Tech Gears Limited|HITECHGEAR|13|
-2022-12-05|Tega Industries Limited|TEGA|14|
-2022-12-05|GTL Limited|GTL|15|
-2022-12-05|Bajaj Hindusthan Sugar Limited|BAJAJHIND|16|
-2022-12-05|Tourism Finance Corporation of India Limited|TFCILTD|17|
-2022-12-05|TTK Healthcare Limited|TTKHLTCARE|18|
-2022-12-05|Kirloskar Electric Company Limited|KECL|19|
-2022-12-05|Tracxn Technologies Limited|TRACXN|20|
-2022-12-05|The Jammu & Kashmir Bank Limited|J&KBANK|21|
-2022-12-05|Donear Industries Limited|DONEAR|22|
-2022-12-05|Arvee Laboratories (India) Limited|ARVEE|23|
-2022-12-05|Advanced Enzyme Technologies Limited|ADVENZYMES|24|
-2022-12-05|Nectar Lifesciences Limited|NECLIFE|25|
-2022-12-06|Univastu India Limited|UNIVASTU|1|
-2022-12-06|Five-Star Business Finance Limited|FIVESTAR|2|
-2022-12-06|Punjab & Sind Bank|PSB|3|
-2022-12-06|Dhunseri Tea & Industries Limited|DTIL|4|
-2022-12-06|Tijaria Polypipes Limited|TIJARIA|5|
-2022-12-06|Sumeet Industries Limited|SUMEETINDS|6|
-2022-12-06|Jagsonpal Pharmaceuticals Limited|JAGSNPHARM|7|
-2022-12-06|Kothari Petrochemicals Limited|KOTHARIPET|8|
-2022-12-06|Jindal Stainless Limited|JSL|9|
-2022-12-06|PNC Infratech Limited|PNCINFRA|10|
-2022-12-06|Ponni Sugars (Erode) Limited|PONNIERODE|11|
-2022-12-06|Navkar Corporation Limited|NAVKARCORP|12|
-2022-12-06|Indbank Merchant Banking Services Limited|INDBANK|13|
-2022-12-06|TARC Limited|TARC|14|
-2022-12-06|Donear Industries Limited|DONEAR|15|
-2022-12-06|Tracxn Technologies Limited|TRACXN|16|
-2022-12-06|Zenith Steel Pipes & Industries Limited|ZENITHSTL|17|
-2022-12-06|DPSC Limited|DPSCLTD|18|
-2022-12-06|Somi Conveyor Beltings Limited|SOMICONVEY|19|
-2022-12-06|IDBI Bank Limited|IDBI|20|
-2022-12-06|NK Industries Limited|NKIND|21|
-2022-12-06|Equitas Small Finance Bank Limited|EQUITASBNK|22|
-2022-12-06|Refex Industries Limited|REFEX|23|
-2022-12-06|Gujarat Lease Financing Limited|GLFL|24|
-2022-12-06|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|25|
-2022-12-07|BLB Limited|BLBLIMITED|1|
-2022-12-07|HEC Infra Projects Limited|HECPROJECT|2|
-2022-12-07|Landmark Property Development Company Limited|LPDC|3|
-2022-12-07|Burnpur Cement Limited|BURNPUR|4|
-2022-12-07|Nitco Limited|NITCO|5|
-2022-12-07|Kanpur Plastipack Limited|KANPRPLA|6|
-2022-12-07|Raj Television Network Limited|RAJTV|7|
-2022-12-07|Next Mediaworks Limited|NEXTMEDIA|8|
-2022-12-07|Siti Networks Limited|SITINET|9|
-2022-12-07|Agri-Tech (India) Limited|AGRITECH|10|
-2022-12-07|Optiemus Infracom Limited|OPTIEMUS|11|
-2022-12-07|Wealth First Portfolio Managers Limited|WEALTH|12|
-2022-12-07|Mittal Life Style Limited|MITTAL|13|
-2022-12-07|Cubex Tubings Limited|CUBEXTUB|14|
-2022-12-07|Lasa Supergenerics Limited|LASA|15|
-2022-12-07|Gokul Agro Resources Limited|GOKULAGRO|16|
-2022-12-07|Hercules Hoists Limited|HERCULES|17|
-2022-12-07|Kanani Industries Limited|KANANIIND|18|
-2022-12-07|PPAP Automotive Limited|PPAP|19|
-2022-12-07|Gyscoal Alloys Limited|GAL|20|
-2022-12-07|Fertilizers and Chemicals Travancore Limited|FACT|21|
-2022-12-07|Hikal Limited|HIKAL|22|
-2022-12-07|Gujarat Ambuja Exports Limited|GAEL|23|
-2022-12-07|SECUREKLOUD TECHNOLOGIES LIMITED|SECURKLOUD|24|
-2022-12-07|GTL Limited|GTL|25|
-2022-12-08|Simplex Infrastructures Limited|SIMPLEXINF|1|
-2022-12-08|TruCap Finance Limited|TRU|2|
-2022-12-08|DiGiSPICE Technologies Limited|DIGISPICE|3|
-2022-12-08|Skipper Limited|SKIPPER|4|
-2022-12-08|Aurionpro Solutions Limited|AURIONPRO|5|
-2022-12-08|Crown Lifters Limited|CROWN|6|
-2022-12-08|Venky's (India) Limited|VENKEYS|7|
-2022-12-08|Optiemus Infracom Limited|OPTIEMUS|8|
-2022-12-08|Central Bank of India|CENTRALBK|9|
-2022-12-08|KEC International Limited|KEC|10|
-2022-12-08|Punjab & Sind Bank|PSB|11|
-2022-12-08|AAA Technologies Limited|AAATECH|12|
-2022-12-08|Uniinfo Telecom Services Limited|UNIINFO|13|
-2022-12-08|Chemplast Sanmar Limited|CHEMPLASTS|14|
-2022-12-08|Ind-Swift Laboratories Limited|INDSWFTLAB|15|
-2022-12-08|Karur Vysya Bank Limited|KARURVYSYA|16|
-2022-12-08|Energy Development Company Limited|ENERGYDEV|17|
-2022-12-08|The Jammu & Kashmir Bank Limited|J&KBANK|18|
-2022-12-08|Pricol Limited|PRICOLLTD|19|
-2022-12-08|PTL Enterprises Limited|PTL|20|
-2022-12-08|SEPC Limited|SEPC|21|
-2022-12-08|Navkar Corporation Limited|NAVKARCORP|22|
-2022-12-08|Madhav Copper Limited|MCL|23|
-2022-12-08|Bank of India|BANKINDIA|24|
-2022-12-08|Bharat Road Network Limited|BRNL|25|
-2022-12-09|Vaishali Pharma Limited|VAISHALI|1|
-2022-12-09|Yes Bank Limited|YESBANK|2|
-2022-12-09|Optiemus Infracom Limited|OPTIEMUS|3|
-2022-12-09|Sagardeep Alloys Limited|SAGARDEEP|4|
-2022-12-09|Cubex Tubings Limited|CUBEXTUB|5|
-2022-12-09|Rajdarshan Industries Limited|ARENTERP|6|
-2022-12-09|Lloyds Steels Industries Limited|LSIL|7|
-2022-12-09|Excel Realty N Infra Limited|EXCEL|8|
-2022-12-09|Sonam Clock Limited|SONAMCLOCK|9|
-2022-12-09|Kamat Hotels (I) Limited|KAMATHOTEL|10|
-2022-12-09|Kothari Products Limited|KOTHARIPRO|11|
-2022-12-09|TruCap Finance Limited|TRU|12|
-2022-12-09|Jayaswal Neco Industries Limited|JAYNECOIND|13|
-2022-12-09|Crown Lifters Limited|CROWN|14|
-2022-12-09|Heads UP Ventures Limited|HEADSUP|15|
-2022-12-09|JMC Projects (India)  Limited|JMCPROJECT|16|
-2022-12-09|GRM Overseas Limited|GRMOVER|17|
-2022-12-09|Dev Information Technology Limited|DEVIT|18|
-2022-12-09|Ace Integrated Solutions Limited|ACEINTEG|19|
-2022-12-09|Sanginita Chemicals Limited|SANGINITA|20|
-2022-12-09|Tracxn Technologies Limited|TRACXN|21|
-2022-12-09|Mahanagar Telephone Nigam Limited|MTNL|22|
-2022-12-09|Norben Tea & Exports Limited|NORBTEAEXP|23|
-2022-12-09|Supreme Infrastructure India Limited|SUPREMEINF|24|
-2022-12-09|AXISCADES Technologies Limited|AXISCADES|25|
-2022-12-12|BLB Limited|BLBLIMITED|1|
-2022-12-12|Creative Newtech Limited|CREATIVE|2|
-2022-12-12|Fertilizers and Chemicals Travancore Limited|FACT|3|
-2022-12-12|Madhav Copper Limited|MCL|4|
-2022-12-12|Dhanlaxmi Bank Limited|DHANBANK|5|
-2022-12-12|Suzlon Energy Limited|SUZLON|6|
-2022-12-12|Jindal Stainless Limited|JSL|7|
-2022-12-12|Salasar Techno Engineering Limited|SALASAR|8|
-2022-12-12|SEPC Limited|SEPC|9|
-2022-12-12|Rossell India Limited|ROSSELLIND|10|
-2022-12-12|Softtech Engineers Limited|SOFTTECH|11|
-2022-12-12|Jaiprakash Power Ventures Limited|JPPOWER|12|
-2022-12-12|HEC Infra Projects Limited|HECPROJECT|13|
-2022-12-12|Tembo Global Industries Limited|TEMBO|14|
-2022-12-12|Vinny Overseas Limited|VINNY|15|
-2022-12-12|Tips Films Limited|TIPSFILMS|16|
-2022-12-12|VA Tech Wabag Limited|WABAG|17|
-2022-12-12|Nelcast Limited|NELCAST|18|
-2022-12-12|Mangalam Global Enterprise Limited|MGEL|19|
-2022-12-12|National Fertilizers Limited|NFL|20|
-2022-12-12|SBC Exports Limited|SBC|21|
-2022-12-12|Total Transport Systems Limited|TOTAL|22|
-2022-12-12|Tracxn Technologies Limited|TRACXN|23|
-2022-12-12|Punjab & Sind Bank|PSB|24|
-2022-12-12|Indian Railway Finance Corporation Limited|IRFC|25|
-2022-12-13|Palash Securities Limited|PALASHSECU|1|
-2022-12-13|Siti Networks Limited|SITINET|2|
-2022-12-13|UCO Bank|UCOBANK|3|
-2022-12-13|Indbank Merchant Banking Services Limited|INDBANK|4|
-2022-12-13|Central Bank of India|CENTRALBK|5|
-2022-12-13|Indian Overseas Bank|IOB|6|
-2022-12-13|Yes Bank Limited|YESBANK|7|
-2022-12-13|Sakuma Exports Limited|SAKUMA|8|
-2022-12-13|Housing & Urban Development Corporation Limited|HUDCO|9|
-2022-12-13|Arrow Greentech Limited|ARROWGREEN|10|
-2022-12-13|Seamec Limited|SEAMECLTD|11|
-2022-12-13|Vardhman Special Steels Limited|VSSL|12|
-2022-12-13|Dhanlaxmi Bank Limited|DHANBANK|13|
-2022-12-13|The Motor & General Finance Limited|MOTOGENFIN|14|
-2022-12-13|Bank of Maharashtra|MAHABANK|15|
-2022-12-13|SECUREKLOUD TECHNOLOGIES LIMITED|SECURKLOUD|16|
-2022-12-13|Fino Payments Bank Limited|FINOPB|17|
-2022-12-13|Vardhman Acrylics Limited|VARDHACRLC|18|
-2022-12-13|Worth Peripherals Limited|WORTH|19|
-2022-12-13|Indian Bank|INDIANB|20|
-2022-12-13|The Byke Hospitality Ltd|BYKE|21|
-2022-12-13|United Drilling Tools Limited|UNIDT|22|
-2022-12-13|Genus Power Infrastructures Limited|GENUSPOWER|23|
-2022-12-13|Equitas Small Finance Bank Limited|EQUITASBNK|24|
-2022-12-13|Simplex Infrastructures Limited|SIMPLEXINF|25|
+Date|Name|Symbol |Gains|Respective Rank|
+2022-11-01|Dangee Dums Limited|DANGEE|0.204176|1|
+2022-11-01|Orissa Bengal Carrier Limited|OBCL|0.199874|2|
+2022-11-01|Suryalakshmi Cotton Mills Limited|SURYALAXMI|0.178281|3|
+2022-11-01|STL Global Limited|SGL|0.174118|4|
+2022-11-01|Bang Overseas Limited|BANG|0.173196|5|
+2022-11-01|Univastu India Limited|UNIVASTU|0.169591|6|
+2022-11-01|Magnum Ventures Limited|MAGNUM|0.167213|7|
+2022-11-01|Nila Infrastructures Limited|NILAINFRA|0.142857|8|
+2022-11-01|Tips Films Limited|TIPSFILMS|0.134247|9|
+2022-11-01|Creative Newtech Limited|CREATIVE|0.126185|10|
+2022-11-01|Alkali Metals Limited|ALKALI|0.115055|11|
+2022-11-01|Pokarna Limited|POKARNA|0.107545|12|
+2022-11-01|Himatsingka Seide Limited|HIMATSEIDE|0.105094|13|
+2022-11-01|Salona Cotspin Limited|SALONA|0.104906|14|
+2022-11-01|AXISCADES Technologies Limited|AXISCADES|0.099385|15|
+2022-11-01|Delhivery Limited|DELHIVERY|0.097391|16|
+2022-11-01|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|0.094118|17|
+2022-11-01|Max Ventures and Industries Limited|MAXVIL|0.091551|18|
+2022-11-01|Automotive Stampings and Assemblies Limited|ASAL|0.090533|19|
+2022-11-01|Setubandhan Infrastructure Limited|SETUINFRA|0.088235|20|
+2022-11-01|Aarti Surfactants Limited|AARTISURF|0.087195|21|
+2022-11-01|Simbhaoli Sugars Limited|SIMBHALS|0.08399|22|
+2022-11-01|Dynemic Products Limited|DYNPRO|0.079891|23|
+2022-11-01|Megasoft Limited|MEGASOFT|0.076687|24|
+2022-11-01|Silly Monks Entertainment Limited|SILLYMONKS|0.076389|25|
+2022-11-02|T T Limited|TTL|0.21787|1|
+2022-11-02|Tracxn Technologies Limited|TRACXN|0.205926|2|
+2022-11-02|IFCI Limited|IFCI|0.189055|3|
+2022-11-02|Eimco Elecon (India) Limited|EIMCOELECO|0.179301|4|
+2022-11-02|Delta Manufacturing Limited|DELTAMAGNT|0.156685|5|
+2022-11-02|Mazagon Dock Shipbuilders Limited|MAZDOCK|0.133959|6|
+2022-11-02|Dc Infotech And Communication Limited|DCI|0.132055|7|
+2022-11-02|Goldiam International Limited|GOLDIAM|0.122984|8|
+2022-11-02|Vineet Laboratories Limited|VINEETLAB|0.111905|9|
+2022-11-02|Prudent Corporate Advisory Services Limited|PRUDENT|0.109888|10|
+2022-11-02|Lypsa Gems & Jewellery Limited|LYPSAGEMS|0.108333|11|
+2022-11-02|AXISCADES Technologies Limited|AXISCADES|0.097308|12|
+2022-11-02|Art Nirman Limited|ARTNIRMAN|0.096334|13|
+2022-11-02|Ortin Laboratories Limited|ORTINLAB|0.093478|14|
+2022-11-02|Cineline India Limited|CINELINE|0.093023|15|
+2022-11-02|Electronics Mart India Limited|EMIL|0.08983|16|
+2022-11-02|Hindustan Oil Exploration Company Limited|HINDOILEXP|0.087504|17|
+2022-11-02|Sonam Clock Limited|SONAMCLOCK|0.084022|18|
+2022-11-02|S. P. Apparels Limited|SPAL|0.08338|19|
+2022-11-02|Siyaram Silk Mills Limited|SIYSIL|0.083154|20|
+2022-11-02|JBF Industries Limited|JBFIND|0.081818|21|
+2022-11-02|Garden Reach Shipbuilders & Engineers Limited|GRSE|0.080455|22|
+2022-11-02|Jindal Poly Investment and Finance Company Limited|JPOLYINVST|0.078676|23|
+2022-11-02|Agro Phos India Limited|AGROPHOS|0.074932|24|
+2022-11-02|Nahar Capital and Financial Services Limited|NAHARCAP|0.071853|25|
+2022-11-03|Mahalaxmi Rubtech Limited|MHLXMIRU|0.215281|1|
+2022-11-03|Southern Petrochemicals Industries Corporation  Limited|SPIC|0.154649|2|
+2022-11-03|Excel Realty N Infra Limited|EXCEL|0.142857|3|
+2022-11-03|Weizmann Limited|WEIZMANIND|0.130316|4|
+2022-11-03|Murudeshwar Ceramics Limited|MURUDCERA|0.125616|5|
+2022-11-03|Indigo Paints Limited|INDIGOPNTS|0.123931|6|
+2022-11-03|Medicamen Biotech Limited|MEDICAMEQ|0.119243|7|
+2022-11-03|Geekay Wires Limited|GEEKAYWIRE|0.117606|8|
+2022-11-03|Vaxtex Cotfab Limited|VCL|0.112821|9|
+2022-11-03|MAS Financial Services Limited|MASFIN|0.105447|10|
+2022-11-03|Eveready Industries India Limited|EVEREADY|0.105138|11|
+2022-11-03|United Polyfab Gujarat Limited|UNITEDPOLY|0.103946|12|
+2022-11-03|DCM Nouvelle Limited|DCMNVL|0.097479|13|
+2022-11-03|Arihant Superstructures Limited|ARIHANTSUP|0.096229|14|
+2022-11-03|RITES Limited|RITES|0.095455|15|
+2022-11-03|Ajooni Biotech Limited|AJOONI|0.094891|16|
+2022-11-03|Alembic Pharmaceuticals Limited|APLLTD|0.087851|17|
+2022-11-03|Cyber Media (India) Limited|CYBERMEDIA|0.084058|18|
+2022-11-03|Raymond Limited|RAYMOND|0.082545|19|
+2022-11-03|Visa Steel Limited|VISASTEEL|0.081911|20|
+2022-11-03|Industrial Investment Trust Limited|IITL|0.081553|21|
+2022-11-03|Elecon Engineering Company Limited|ELECON|0.081373|22|
+2022-11-03|Arman Financial Services Limited|ARMANFIN|0.078791|23|
+2022-11-03|T T Limited|TTL|0.076842|24|
+2022-11-03|Piramal Enterprises Limited|PEL|0.073706|25|
+2022-11-04|Goa Carbon Limited|GOACARBON|0.192464|1|
+2022-11-04|Cerebra Integrated Technologies Limited|CEREBRAINT|0.19214|2|
+2022-11-04|Remsons Industries Limited|REMSONSIND|0.181203|3|
+2022-11-04|The Karnataka Bank Limited|KTKBANK|0.153108|4|
+2022-11-04|Silly Monks Entertainment Limited|SILLYMONKS|0.136508|5|
+2022-11-04|A2Z Infra Engineering Limited|A2ZINFRA|0.133663|6|
+2022-11-04|Ndr Auto Components Limited|NDRAUTO|0.124423|7|
+2022-11-04|PDS Limited|PDSL|0.123235|8|
+2022-11-04|Indian Overseas Bank|IOB|0.118557|9|
+2022-11-04|Cubex Tubings Limited|CUBEXTUB|0.115658|10|
+2022-11-04|AXISCADES Technologies Limited|AXISCADES|0.110414|11|
+2022-11-04|Rainbow Childrens Medicare Limited|RAINBOW|0.106224|12|
+2022-11-04|Sonam Clock Limited|SONAMCLOCK|0.104651|13|
+2022-11-04|Action Construction Equipment Limited|ACE|0.097622|14|
+2022-11-04|Refex Industries Limited|REFEX|0.09557|15|
+2022-11-04|Dhanlaxmi Bank Limited|DHANBANK|0.093117|16|
+2022-11-04|Punjab & Sind Bank|PSB|0.090643|17|
+2022-11-04|Gillanders Arbuthnot & Company Limited|GILLANDERS|0.090476|18|
+2022-11-04|Repco Home Finance Limited|REPCOHOME|0.089814|19|
+2022-11-04|JK Lakshmi Cement Limited|JKLAKSHMI|0.089652|20|
+2022-11-04|ISMT Limited|ISMTLTD|0.085965|21|
+2022-11-04|Visa Steel Limited|VISASTEEL|0.084112|22|
+2022-11-04|Vimta Labs Limited|VIMTALABS|0.083803|23|
+2022-11-04|Indian Terrain Fashions Limited|INDTERRAIN|0.08078|24|
+2022-11-04|Windsor Machines Limited|WINDMACHIN|0.078125|25|
+2022-11-07|Khaitan (India) Limited|KHAITANLTD|0.191512|1|
+2022-11-07|Mangalam Organics Limited|MANORG|0.160448|2|
+2022-11-07|Flexituff Ventures International Limited|FLEXITUFF|0.153285|3|
+2022-11-07|Jindal Worldwide Limited|JINDWORLD|0.149221|4|
+2022-11-07|SPL Industries Limited|SPLIL|0.135|5|
+2022-11-07|Magnum Ventures Limited|MAGNUM|0.130556|6|
+2022-11-07|Jayaswal Neco Industries Limited|JAYNECOIND|0.120408|7|
+2022-11-07|HB Stockholdings Limited|HBSL|0.117939|8|
+2022-11-07|Emami Realty Limited|EMAMIREAL|0.108108|9|
+2022-11-07|NIIT Limited|NIITLTD|0.104667|10|
+2022-11-07|Crown Lifters Limited|CROWN|0.103586|11|
+2022-11-07|Simplex Infrastructures Limited|SIMPLEXINF|0.099174|12|
+2022-11-07|JM Financial Limited|JMFINANCIL|0.098151|13|
+2022-11-07|Dhanlaxmi Bank Limited|DHANBANK|0.096429|14|
+2022-11-07|D-Link (India) Limited|DLINKINDIA|0.095407|15|
+2022-11-07|Salona Cotspin Limited|SALONA|0.087368|16|
+2022-11-07|Genus Paper & Boards Limited|GENUSPAPER|0.087324|17|
+2022-11-07|Smartlink Holdings Limited|SMARTLINK|0.086218|18|
+2022-11-07|Focus Lighting and Fixtures Limited|FOCUS|0.084672|19|
+2022-11-07|Rail Vikas Nigam Limited|RVNL|0.084312|20|
+2022-11-07|The Great Eastern Shipping Company Limited|GESHIP|0.081547|21|
+2022-11-07|The Byke Hospitality Ltd|BYKE|0.080283|22|
+2022-11-07|Sarthak Metals Limited|SMLT|0.07829|23|
+2022-11-07|Goyal Aluminiums Limited|GOYALALUM|0.078109|24|
+2022-11-07|Kohinoor Foods Limited|KOHINOOR|0.077413|25|
+2022-11-09|Dangee Dums Limited|DANGEE|0.213004|1|
+2022-11-09|Country Condo's Limited|COUNCODOS|0.189873|2|
+2022-11-09|HLV LIMITED|HLVLTD|0.161905|3|
+2022-11-09|Ind-Swift Laboratories Limited|INDSWFTLAB|0.158929|4|
+2022-11-09|Magnum Ventures Limited|MAGNUM|0.140187|5|
+2022-11-09|KPI Green Energy Limited|KPIGREEN|0.111185|6|
+2022-11-09|Moksh Ornaments Limited|MOKSH|0.106557|7|
+2022-11-09|Foods & Inns Limited|FOODSIN|0.103568|8|
+2022-11-09|Ind-Swift Limited|INDSWFTLTD|0.1|9|
+2022-11-09|MPS Limited|MPSLTD|0.092075|10|
+2022-11-09|NGL Fine-Chem Limited|NGLFINE|0.085682|11|
+2022-11-09|Inox Wind Energy Limited|IWEL|0.081139|12|
+2022-11-09|Union Bank of India|UNIONBANK|0.081013|13|
+2022-11-09|Igarashi Motors India Limited|IGARASHI|0.080473|14|
+2022-11-09|Bank of India|BANKINDIA|0.08|15|
+2022-11-09|Anmol India Limited|ANMOL|0.079151|16|
+2022-11-09|Indo Borax & Chemicals Limited|INDOBORAX|0.076277|17|
+2022-11-09|Focus Lighting and Fixtures Limited|FOCUS|0.075519|18|
+2022-11-09|Max India Limited|MAXIND|0.073684|19|
+2022-11-09|Suryoday Small Finance Bank Limited|SURYODAY|0.072682|20|
+2022-11-09|Integra Essentia Limited|ESSENTIA|0.072581|21|
+2022-11-09|Universal Cables Limited|UNIVCABLES|0.0722|22|
+2022-11-09|SMS Pharmaceuticals Limited|SMSPHARMA|0.072027|23|
+2022-11-09|Marine Electricals (India) Limited|MARINE|0.067073|24|
+2022-11-09|Vertoz Advertising Limited|VERTOZ|0.064679|25|
+2022-11-10|Neuland Laboratories Limited|NEULANDLAB|0.19735|1|
+2022-11-10|Par Drugs And Chemicals Limited|PAR|0.167757|2|
+2022-11-10|FSN E-Commerce Ventures Limited|NYKAA|0.127246|3|
+2022-11-10|BSL Limited|BSL|0.127224|4|
+2022-11-10|Sanghvi Movers Limited|SANGHVIMOV|0.126889|5|
+2022-11-10|TVS Srichakra Limited|TVSSRICHAK|0.108405|6|
+2022-11-10|Prince Pipes And Fittings Limited|PRINCEPIPE|0.089544|7|
+2022-11-10|Hariom Pipe Industries Limited|HARIOMPIPE|0.074379|8|
+2022-11-10|ION Exchange (India) Limited|IONEXCHANG|0.063508|9|
+2022-11-10|Nesco Limited|NESCO|0.062149|10|
+2022-11-10|Esab India Limited|ESABINDIA|0.061241|11|
+2022-11-10|Godrej Properties Limited|GODREJPROP|0.060386|12|
+2022-11-10|Naga Dhunseri Group Limited|NDGL|0.059527|13|
+2022-11-10|Hindustan Motors Limited|HINDMOTORS|0.059524|14|
+2022-11-10|Wonderla Holidays Limited|WONDERLA|0.059259|15|
+2022-11-10|Vertoz Advertising Limited|VERTOZ|0.059167|16|
+2022-11-10|Palash Securities Limited|PALASHSECU|0.057353|17|
+2022-11-10|Damodar Industries Limited|DAMODARIND|0.057297|18|
+2022-11-10|Grauer & Weil (India) Limited|GRAUWEIL|0.057206|19|
+2022-11-10|Royal Orchid Hotels Limited|ROHLTD|0.055323|20|
+2022-11-10|Sikko Industries Limited|SIKKO|0.055195|21|
+2022-11-10|Electrosteel Castings Limited|ELECTCAST|0.054087|22|
+2022-11-10|Kirloskar Oil Engines Limited|KIRLOSENG|0.054035|23|
+2022-11-10|Rama Steel Tubes Limited|RAMASTEEL|0.052862|24|
+2022-11-10|Tokyo Plast International Limited|TOKYOPLAST|0.051816|25|
+2022-11-11|Lumax Industries Limited|LUMAXIND|0.150258|1|
+2022-11-11|Gillanders Arbuthnot & Company Limited|GILLANDERS|0.147422|2|
+2022-11-11|Swan Energy Limited|SWANENERGY|0.130787|3|
+2022-11-11|Rossell India Limited|ROSSELLIND|0.128642|4|
+2022-11-11|Banswara Syntex Limited|BANSWRAS|0.124582|5|
+2022-11-11|Zomato Limited|ZOMATO|0.10303|6|
+2022-11-11|Hindustan Foods Limited|HNDFDS|0.102959|7|
+2022-11-11|Cochin Shipyard Limited|COCHINSHIP|0.10069|8|
+2022-11-11|Lotus Eye Hospital and Institute Limited|LOTUSEYE|0.097842|9|
+2022-11-11|Saksoft Limited|SAKSOFT|0.097712|10|
+2022-11-11|FSN E-Commerce Ventures Limited|NYKAA|0.081707|11|
+2022-11-11|RPG Life Sciences Limited|RPGLIFE|0.07631|12|
+2022-11-11|DCX Systems Limited|DCXINDIA|0.074739|13|
+2022-11-11|Arvind SmartSpaces Limited|ARVSMART|0.072361|14|
+2022-11-11|SMS Pharmaceuticals Limited|SMSPHARMA|0.067857|15|
+2022-11-11|Kennametal India Limited|KENNAMET|0.063936|16|
+2022-11-11|Allcargo Logistics Limited|ALLCARGO|0.063042|17|
+2022-11-11|Bang Overseas Limited|BANG|0.062062|18|
+2022-11-11|Lumax Auto Technologies Limited|LUMAXTECH|0.060504|19|
+2022-11-11|SecUR Credentials Limited|SECURCRED|0.060366|20|
+2022-11-11|TVS Srichakra Limited|TVSSRICHAK|0.056931|21|
+2022-11-11|Rajesh Exports Limited|RAJESHEXPO|0.053876|22|
+2022-11-11|Affle (India) Limited|AFFLE|0.051582|23|
+2022-11-11|PB Fintech Limited|POLICYBZR|0.050789|24|
+2022-11-11|Housing Development Finance Corporation Limited|HDFC|0.049762|25|
+2022-11-14|GSS Infotech Limited|GSS|0.155285|1|
+2022-11-14|Rossell India Limited|ROSSELLIND|0.144258|2|
+2022-11-14|Trident Limited|TRIDENT|0.143548|3|
+2022-11-14|Kirloskar Brothers Limited|KIRLOSBROS|0.121076|4|
+2022-11-14|Marathon Nextgen Realty Limited|MARATHON|0.111307|5|
+2022-11-14|AXISCADES Technologies Limited|AXISCADES|0.105057|6|
+2022-11-14|Fiem Industries Limited|FIEMIND|0.103861|7|
+2022-11-14|Dredging Corporation of India Limited|DREDGECORP|0.103519|8|
+2022-11-14|Jtekt India Limited|JTEKTINDIA|0.101518|9|
+2022-11-14|Dishman Carbogen Amcis Limited|DCAL|0.084615|10|
+2022-11-14|Neuland Laboratories Limited|NEULANDLAB|0.083818|11|
+2022-11-14|Hilton Metal Forging Limited|HILTON|0.083333|12|
+2022-11-14|Krishna Institute of Medical Sciences Limited|KIMS|0.082621|13|
+2022-11-14|Raymond Limited|RAYMOND|0.072287|14|
+2022-11-14|Manappuram Finance Limited|MANAPPURAM|0.072151|15|
+2022-11-14|Strides Pharma Science Limited|STAR|0.071096|16|
+2022-11-14|Cineline India Limited|CINELINE|0.070283|17|
+2022-11-14|Skipper Limited|SKIPPER|0.068916|18|
+2022-11-14|Cerebra Integrated Technologies Limited|CEREBRAINT|0.068056|19|
+2022-11-14|Hindustan Foods Limited|HNDFDS|0.066602|20|
+2022-11-14|MMP Industries Limited|MMP|0.065568|21|
+2022-11-14|Magnum Ventures Limited|MAGNUM|0.064302|22|
+2022-11-14|Goodluck India Limited|GOODLUCK|0.063492|23|
+2022-11-14|Repco Home Finance Limited|REPCOHOME|0.062729|24|
+2022-11-14|Chemfab Alkalis Limited|CHEMFAB|0.061063|25|
+2022-11-15|Renaissance Global Limited|RGL|0.185856|1|
+2022-11-15|AksharChem India Limited|AKSHARCHEM|0.167869|2|
+2022-11-15|Alkali Metals Limited|ALKALI|0.12363|3|
+2022-11-15|Linc Limited|LINC|0.120902|4|
+2022-11-15|Bcl Industries Limited|BCLIND|0.102867|5|
+2022-11-15|Vishnu Chemicals Limited|VISHNU|0.102454|6|
+2022-11-15|Windsor Machines Limited|WINDMACHIN|0.100105|7|
+2022-11-15|Indo-National Limited|NIPPOBATRY|0.096495|8|
+2022-11-15|Balkrishna Industries Limited|BALKRISIND|0.090667|9|
+2022-11-15|Archies Limited|ARCHIES|0.090206|10|
+2022-11-15|Rail Vikas Nigam Limited|RVNL|0.084004|11|
+2022-11-15|Refex Industries Limited|REFEX|0.078341|12|
+2022-11-15|Gabriel India Limited|GABRIEL|0.076481|13|
+2022-11-15|Railtel Corporation Of India Limited|RAILTEL|0.074367|14|
+2022-11-15|Nila Infrastructures Limited|NILAINFRA|0.074074|15|
+2022-11-15|Johnson Controls - Hitachi Air Conditioning India Limited|JCHAC|0.073461|16|
+2022-11-15|Vertoz Advertising Limited|VERTOZ|0.071032|17|
+2022-11-15|Banswara Syntex Limited|BANSWRAS|0.07067|18|
+2022-11-15|Best Agrolife Limited|BESTAGRO|0.069228|19|
+2022-11-15|Precision Wires India Limited|PRECWIRE|0.0685|20|
+2022-11-15|Revathi Equipment Limited|REVATHI|0.067933|21|
+2022-11-15|NCC Limited|NCC|0.063902|22|
+2022-11-15|Apar Industries Limited|APARINDS|0.063059|23|
+2022-11-15|Kirloskar Industries Limited|KIRLOSIND|0.06103|24|
+2022-11-15|Surya Roshni Limited|SURYAROSNI|0.058531|25|
+2022-11-16|Lotus Eye Hospital and Institute Limited|LOTUSEYE|0.136956|1|
+2022-11-16|Rajshree Sugars & Chemicals Limited|RAJSREESUG|0.133903|2|
+2022-11-16|Housing & Urban Development Corporation Limited|HUDCO|0.115703|3|
+2022-11-16|Hindustan Construction Company Limited|HCC|0.09507|4|
+2022-11-16|Global Education Limited|GLOBAL|0.092221|5|
+2022-11-16|Atul Auto Limited|ATULAUTO|0.090471|6|
+2022-11-16|Career Point Limited|CAREERP|0.08827|7|
+2022-11-16|Kirloskar Oil Engines Limited|KIRLOSENG|0.087133|8|
+2022-11-16|Simbhaoli Sugars Limited|SIMBHALS|0.084788|9|
+2022-11-16|Dhampur Bio Organics Limited|DBOL|0.083628|10|
+2022-11-16|Shrenik Limited|SHRENIK|0.081081|11|
+2022-11-16|KCP Sugar and Industries Corporation Limited|KCPSUGIND|0.08|12|
+2022-11-16|Andrew Yule & Company Limited|ANDREWYU|0.079625|13|
+2022-11-16|Kovai Medical Center and Hospital Limited|KOVAI|0.077405|14|
+2022-11-16|Honda India Power Products Limited|HONDAPOWER|0.076785|15|
+2022-11-16|Intrasoft Technologies Limited|ISFT|0.076605|16|
+2022-11-16|Finolex Industries Limited|FINPIPE|0.07613|17|
+2022-11-16|Mawana Sugars Limited|MAWANASUG|0.074407|18|
+2022-11-16|Power Mech Projects Limited|POWERMECH|0.073984|19|
+2022-11-16|D. P. Abhushan Limited|DPABHUSHAN|0.073462|20|
+2022-11-16|Dish TV India Limited|DISHTV|0.073333|21|
+2022-11-16|Ponni Sugars (Erode) Limited|PONNIERODE|0.07288|22|
+2022-11-16|COSMO FIRST LIMITED|COSMOFIRST|0.071208|23|
+2022-11-16|Bcl Industries Limited|BCLIND|0.070521|24|
+2022-11-16|Indian Railway Finance Corporation Limited|IRFC|0.069444|25|
+2022-11-17|Timken India Limited|TIMKEN|0.186464|1|
+2022-11-17|Archies Limited|ARCHIES|0.137255|2|
+2022-11-17|Intrasoft Technologies Limited|ISFT|0.125|3|
+2022-11-17|Vaxtex Cotfab Limited|VCL|0.122995|4|
+2022-11-17|Engineers India Limited|ENGINERSIN|0.103967|5|
+2022-11-17|Goa Carbon Limited|GOACARBON|0.1|6|
+2022-11-17|Chembond Chemicals Ltd|CHEMBOND|0.090249|7|
+2022-11-17|Bhageria Industries Limited|BHAGERIA|0.082911|8|
+2022-11-17|Dredging Corporation of India Limited|DREDGECORP|0.071004|9|
+2022-11-17|Hariom Pipe Industries Limited|HARIOMPIPE|0.070957|10|
+2022-11-17|Kirloskar Oil Engines Limited|KIRLOSENG|0.068012|11|
+2022-11-17|Hindustan Construction Company Limited|HCC|0.066879|12|
+2022-11-17|Vindhya Telelinks Limited|VINDHYATEL|0.066761|13|
+2022-11-17|Foods & Inns Limited|FOODSIN|0.065966|14|
+2022-11-17|Balmer Lawrie & Company Limited|BALMLAWRIE|0.063241|15|
+2022-11-17|Shree Ram Proteins Limited|SRPL|0.062926|16|
+2022-11-17|Teamlease Services Limited|TEAMLEASE|0.06077|17|
+2022-11-17|NLC India Limited|NLCINDIA|0.060646|18|
+2022-11-17|Equitas Holdings Limited|EQUITAS|0.060591|19|
+2022-11-17|North Eastern Carrying Corporation Limited|NECCLTD|0.060241|20|
+2022-11-17|Godfrey Phillips India Limited|GODFRYPHLP|0.059858|21|
+2022-11-17|Universal Cables Limited|UNIVCABLES|0.059193|22|
+2022-11-17|NACL Industries Limited|NACLIND|0.058049|23|
+2022-11-17|3P Land Holdings Limited|3PLAND|0.057576|24|
+2022-11-17|Banka BioLoo Limited|BANKA|0.055703|25|
+2022-11-18|Biofil Chemicals & Pharmaceuticals Limited|BIOFILCHEM|0.185185|1|
+2022-11-18|IFB Industries Limited|IFBIND|0.159397|2|
+2022-11-18|Vaishali Pharma Limited|VAISHALI|0.1285|3|
+2022-11-18|Revathi Equipment Limited|REVATHI|0.100195|4|
+2022-11-18|Alicon Castalloy Limited|ALICON|0.097951|5|
+2022-11-18|Focus Lighting and Fixtures Limited|FOCUS|0.091083|6|
+2022-11-18|Honda India Power Products Limited|HONDAPOWER|0.087727|7|
+2022-11-18|IZMO Limited|IZMO|0.086326|8|
+2022-11-18|Kokuyo Camlin Limited|KOKUYOCMLN|0.085175|9|
+2022-11-18|Shivalik Rasayan Limited|SHIVALIK|0.085112|10|
+2022-11-18|Cyber Media (India) Limited|CYBERMEDIA|0.082418|11|
+2022-11-18|Bank of Maharashtra|MAHABANK|0.07957|12|
+2022-11-18|TCPL Packaging Limited|TCPLPACK|0.077986|13|
+2022-11-18|Medicamen Biotech Limited|MEDICAMEQ|0.074713|14|
+2022-11-18|Sirca Paints India Limited|SIRCA|0.074411|15|
+2022-11-18|Esab India Limited|ESABINDIA|0.073747|16|
+2022-11-18|Lumax Industries Limited|LUMAXIND|0.07335|17|
+2022-11-18|Supreme Engineering Limited|SUPREMEENG|0.071429|18|
+2022-11-18|Graphite India Limited|GRAPHITE|0.070351|19|
+2022-11-18|Royal Orchid Hotels Limited|ROHLTD|0.069905|20|
+2022-11-18|PB Fintech Limited|POLICYBZR|0.06865|21|
+2022-11-18|Kalyani Steels Limited|KSL|0.066054|22|
+2022-11-18|Oswal Chemicals & Fertilizers Limited|BINDALAGRO|0.065299|23|
+2022-11-18|Indiabulls Real Estate Limited|IBREALEST|0.065031|24|
+2022-11-18|Piramal Pharma Limited|PPLPHARMA|0.064138|25|
+2022-11-21|Kabra Extrusion Technik Limited|KABRAEXTRU|0.196482|1|
+2022-11-21|Alpa Laboratories Limited|ALPA|0.190141|2|
+2022-11-21|UCO Bank|UCOBANK|0.184127|3|
+2022-11-21|Skipper Limited|SKIPPER|0.168269|4|
+2022-11-21|Swan Energy Limited|SWANENERGY|0.152928|5|
+2022-11-21|Bank of Maharashtra|MAHABANK|0.136095|6|
+2022-11-21|Creative Newtech Limited|CREATIVE|0.11129|7|
+2022-11-21|Nakoda Group of Industries Limited|NGIL|0.104712|8|
+2022-11-21|Refex Industries Limited|REFEX|0.102667|9|
+2022-11-21|Ganga Forging Limited|GANGAFORGE|0.098765|10|
+2022-11-21|Punjab & Sind Bank|PSB|0.098446|11|
+2022-11-21|IZMO Limited|IZMO|0.094304|12|
+2022-11-21|Central Bank of India|CENTRALBK|0.091102|13|
+2022-11-21|Indian Overseas Bank|IOB|0.090698|14|
+2022-11-21|IFCI Limited|IFCI|0.090517|15|
+2022-11-21|Escorts Kubota Limited|ESCORTS|0.085541|16|
+2022-11-21|Easy Trip Planners Limited|EASEMYTRIP|0.081132|17|
+2022-11-21|Madras Fertilizers Limited|MADRASFERT|0.08|18|
+2022-11-21|Dish TV India Limited|DISHTV|0.079268|19|
+2022-11-21|Vaishali Pharma Limited|VAISHALI|0.073342|20|
+2022-11-21|Marksans Pharma Limited|MARKSANS|0.0723|21|
+2022-11-21|Nagreeka Exports Limited|NAGREEKEXP|0.070661|22|
+2022-11-21|Finolex Cables Limited|FINCABLES|0.070654|23|
+2022-11-21|Camlin Fine Sciences Limited|CAMLINFINE|0.068848|24|
+2022-11-21|Dhanlaxmi Bank Limited|DHANBANK|0.067857|25|
+2022-11-22|Sadbhav Engineering Limited|SADBHAV|0.211009|1|
+2022-11-22|Welspun Investments and Commercials Limited|WELINV|0.1768|2|
+2022-11-22|Kopran Limited|KOPRAN|0.176665|3|
+2022-11-22|Airo Lam limited|AIROLAM|0.174375|4|
+2022-11-22|BSL Limited|BSL|0.158525|5|
+2022-11-22|Easy Trip Planners Limited|EASEMYTRIP|0.148615|6|
+2022-11-22|Mazagon Dock Shipbuilders Limited|MAZDOCK|0.131527|7|
+2022-11-22|Sintercom India Limited|SINTERCOM|0.129703|8|
+2022-11-22|Lotus Eye Hospital and Institute Limited|LOTUSEYE|0.127215|9|
+2022-11-22|Mirza International Limited|MIRZAINT|0.121758|10|
+2022-11-22|Hi-Tech Pipes Limited|HITECH|0.118931|11|
+2022-11-22|Shivalik Bimetal Controls Limited|SBCL|0.116133|12|
+2022-11-22|Gandhi Special Tubes Limited|GANDHITUBE|0.098307|13|
+2022-11-22|ISMT Limited|ISMTLTD|0.093548|14|
+2022-11-22|Wealth First Portfolio Managers Limited|WEALTH|0.091694|15|
+2022-11-22|Garden Reach Shipbuilders & Engineers Limited|GRSE|0.090909|16|
+2022-11-22|Arshiya Limited|ARSHIYA|0.087432|17|
+2022-11-22|Tarapur Transformers Limited|TARAPUR|0.08642|18|
+2022-11-22|UCO Bank|UCOBANK|0.085492|19|
+2022-11-22|Jaiprakash Associates Limited|JPASSOCIAT|0.084746|20|
+2022-11-22|Diligent Media Corporation Limited|DNAMEDIA|0.082192|21|
+2022-11-22|Dhunseri Ventures Limited|DVL|0.079891|22|
+2022-11-22|Onelife Capital Advisors Limited|ONELIFECAP|0.079051|23|
+2022-11-22|United Polyfab Gujarat Limited|UNITEDPOLY|0.07815|24|
+2022-11-22|Hindustan Foods Limited|HNDFDS|0.0755|25|
+2022-11-23|Iris Business Services Limited|IRIS|0.199015|1|
+2022-11-23|Fino Payments Bank Limited|FINOPB|0.181633|2|
+2022-11-23|Surana Solar Limited|SURANASOL|0.166667|3|
+2022-11-23|Vascon Engineers Limited|VASCONEQ|0.139461|4|
+2022-11-23|RHI MAGNESITA INDIA LIMITED|RHIM|0.13054|5|
+2022-11-23|Welspun Investments and Commercials Limited|WELINV|0.127246|6|
+2022-11-23|Marshall Machines Limited|MARSHALL|0.12253|7|
+2022-11-23|Rashtriya Chemicals and Fertilizers Limited|RCF|0.115053|8|
+2022-11-23|Surana Telecom and Power Limited|SURANAT&P|0.113861|9|
+2022-11-23|Fertilizers and Chemicals Travancore Limited|FACT|0.102286|10|
+2022-11-23|Rail Vikas Nigam Limited|RVNL|0.100949|11|
+2022-11-23|Sadbhav Engineering Limited|SADBHAV|0.100372|12|
+2022-11-23|Bikaji Foods International Limited|BIKAJI|0.09793|13|
+2022-11-23|National Fertilizers Limited|NFL|0.097773|14|
+2022-11-23|Tips Films Limited|TIPSFILMS|0.09468|15|
+2022-11-23|Times Guaranty Limited|TIMESGTY|0.093001|16|
+2022-11-23|Orient Abrasives Limited|ORIENTABRA|0.089631|17|
+2022-11-23|Vikas EcoTech Limited|VIKASECO|0.089552|18|
+2022-11-23|Suryalakshmi Cotton Mills Limited|SURYALAXMI|0.087611|19|
+2022-11-23|NBCC (India) Limited|NBCC|0.084635|20|
+2022-11-23|Railtel Corporation Of India Limited|RAILTEL|0.083019|21|
+2022-11-23|Art Nirman Limited|ARTNIRMAN|0.082482|22|
+2022-11-23|Inspirisys Solutions Limited|INSPIRISYS|0.082237|23|
+2022-11-23|Onward Technologies Limited|ONWARDTEC|0.081306|24|
+2022-11-23|IVP Limited|IVP|0.080733|25|
+2022-11-24|Indbank Merchant Banking Services Limited|INDBANK|0.181818|1|
+2022-11-24|BSL Limited|BSL|0.180172|2|
+2022-11-24|Bharat Road Network Limited|BRNL|0.176642|3|
+2022-11-24|Nagreeka Exports Limited|NAGREEKEXP|0.15942|4|
+2022-11-24|Rossell India Limited|ROSSELLIND|0.157969|5|
+2022-11-24|Coffee Day Enterprises Limited|COFFEEDAY|0.121245|6|
+2022-11-24|Olectra Greentech Limited|OLECTRA|0.116681|7|
+2022-11-24|Ducon Infratechnologies Limited|DUCON|0.116071|8|
+2022-11-24|Super Spinning Mills Limited|SUPERSPIN|0.100592|9|
+2022-11-24|Suumaya Industries Limited|SUULD|0.093548|10|
+2022-11-24|Gujarat State Petronet Limited|GSPL|0.089749|11|
+2022-11-24|Dish TV India Limited|DISHTV|0.088643|12|
+2022-11-24|Themis Medicare Limited|THEMISMED|0.086513|13|
+2022-11-24|Marathon Nextgen Realty Limited|MARATHON|0.082727|14|
+2022-11-24|Ponni Sugars (Erode) Limited|PONNIERODE|0.081698|15|
+2022-11-24|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|0.081395|16|
+2022-11-24|Bikaji Foods International Limited|BIKAJI|0.078498|17|
+2022-11-24|Archean Chemical Industries Limited|ACI|0.073504|18|
+2022-11-24|Ausom Enterprise Limited|AUSOMENT|0.072961|19|
+2022-11-24|Fino Payments Bank Limited|FINOPB|0.071984|20|
+2022-11-24|Tirupati Forge Limited|TIRUPATIFL|0.068182|21|
+2022-11-24|AXISCADES Technologies Limited|AXISCADES|0.067616|22|
+2022-11-24|Banka BioLoo Limited|BANKA|0.06738|23|
+2022-11-24|United Polyfab Gujarat Limited|UNITEDPOLY|0.066165|24|
+2022-11-24|SJVN Limited|SJVN|0.062842|25|
+2022-11-25|Excel Realty N Infra Limited|EXCEL|0.2|1|
+2022-11-25|Pearl Polymers Limited|PEARLPOLY|0.170391|2|
+2022-11-25|Dev Information Technology Limited|DEVIT|0.144334|3|
+2022-11-25|Panama Petrochem Limited|PANAMAPET|0.138095|4|
+2022-11-25|Indiabulls Housing Finance Limited|IBULHSGFIN|0.111424|5|
+2022-11-25|India Tourism Development Corporation Limited|ITDC|0.108356|6|
+2022-11-25|Nath Bio-Genes (India) Limited|NATHBIOGEN|0.097327|7|
+2022-11-25|BSL Limited|BSL|0.097317|8|
+2022-11-25|Damodar Industries Limited|DAMODARIND|0.094714|9|
+2022-11-25|TREJHARA SOLUTIONS LIMITED|TREJHARA|0.094558|10|
+2022-11-25|FCS Software Solutions Limited|FCSSOFT|0.09434|11|
+2022-11-25|Zenith Steel Pipes & Industries Limited|ZENITHSTL|0.093023|12|
+2022-11-25|GE Power India Limited|GEPIL|0.091221|13|
+2022-11-25|Focus Lighting and Fixtures Limited|FOCUS|0.086983|14|
+2022-11-25|Bharat Heavy Electricals Limited|BHEL|0.08687|15|
+2022-11-25|Tata Motors Limited|TATAMTRDVR|0.086574|16|
+2022-11-25|Hariom Pipe Industries Limited|HARIOMPIPE|0.085887|17|
+2022-11-25|Asian Energy Services Limited|ASIANENE|0.084454|18|
+2022-11-25|The South Indian Bank Limited|SOUTHBANK|0.083893|19|
+2022-11-25|Religare Enterprises Limited|RELIGARE|0.083261|20|
+2022-11-25|Rajesh Exports Limited|RAJESHEXPO|0.080913|21|
+2022-11-25|Rail Vikas Nigam Limited|RVNL|0.080324|22|
+2022-11-25|UTI Asset Management Company Limited|UTIAMC|0.078406|23|
+2022-11-25|Dish TV India Limited|DISHTV|0.078283|24|
+2022-11-25|Ashima Limited|ASHIMASYN|0.078014|25|
+2022-11-28|The State Trading Corporation of India Limited|STCINDIA|0.205172|1|
+2022-11-28|Damodar Industries Limited|DAMODARIND|0.192|2|
+2022-11-28|Mstc Limited|MSTCLTD|0.168276|3|
+2022-11-28|Ramco Systems Limited|RAMCOSYS|0.161042|4|
+2022-11-28|Prime Focus Limited|PFOCUS|0.160229|5|
+2022-11-28|SBC Exports Limited|SBC|0.131222|6|
+2022-11-28|Prozone Intu Properties Limited|PROZONINTU|0.130137|7|
+2022-11-28|Rico Auto Industries Limited|RICOAUTO|0.125305|8|
+2022-11-28|Setco Automotive Limited|SETCO|0.116071|9|
+2022-11-28|JK Tyre & Industries Limited|JKTYRE|0.112356|10|
+2022-11-28|Tanla Platforms Limited|TANLA|0.111654|11|
+2022-11-28|Bikaji Foods International Limited|BIKAJI|0.104264|12|
+2022-11-28|Dhruv Consultancy Services Limited|DHRUV|0.101333|13|
+2022-11-28|The Ugar Sugar Works Limited|UGARSUGAR|0.0964|14|
+2022-11-28|Aarvi Encon Limited|AARVI|0.096108|15|
+2022-11-28|Morepen Laboratories Limited|MOREPENLAB|0.094991|16|
+2022-11-28|Sportking India Limited|SPORTKING|0.091249|17|
+2022-11-28|Ajmera Realty & Infra India Limited|AJMERA|0.090559|18|
+2022-11-28|MMTC Limited|MMTC|0.087126|19|
+2022-11-28|Tips Films Limited|TIPSFILMS|0.085967|20|
+2022-11-28|Andrew Yule & Company Limited|ANDREWYU|0.080679|21|
+2022-11-28|Akshar Spintex Limited|AKSHAR|0.076786|22|
+2022-11-28|Arvind SmartSpaces Limited|ARVSMART|0.075472|23|
+2022-11-28|Agro Tech Foods Limited|ATFL|0.075029|24|
+2022-11-28|CEAT Limited|CEATLTD|0.072387|25|
+2022-11-29|Lakshmi Finance & Industrial Corporation Limited|LFIC|0.185784|1|
+2022-11-29|Bcl Industries Limited|BCLIND|0.165649|2|
+2022-11-29|SBC Exports Limited|SBC|0.153846|3|
+2022-11-29|Nagreeka Exports Limited|NAGREEKEXP|0.148771|4|
+2022-11-29|Nila Infrastructures Limited|NILAINFRA|0.13986|5|
+2022-11-29|Prime Focus Limited|PFOCUS|0.136558|6|
+2022-11-29|Alkali Metals Limited|ALKALI|0.134116|7|
+2022-11-29|The New India Assurance Company Limited|NIACL|0.125245|8|
+2022-11-29|Bhandari Hosiery Exports Limited|BHANDARI|0.121212|9|
+2022-11-29|Radhika Jeweltech Limited|RADHIKAJWE|0.105282|10|
+2022-11-29|Tide Water Oil Company (India) Limited|TIDEWATER|0.103839|11|
+2022-11-29|Chembond Chemicals Ltd|CHEMBOND|0.101709|12|
+2022-11-29|ADF Foods Limited|ADFFOODS|0.1006|13|
+2022-11-29|Accelya Solutions India Limited|ACCELYA|0.096865|14|
+2022-11-29|DCM  Limited|DCM|0.080892|15|
+2022-11-29|Globe Textiles (India) Limited|GLOBE|0.080808|16|
+2022-11-29|Uma Exports Limited|UMAEXPORTS|0.079545|17|
+2022-11-29|Airan Limited|AIRAN|0.079412|18|
+2022-11-29|United Polyfab Gujarat Limited|UNITEDPOLY|0.077536|19|
+2022-11-29|Prajay Engineers Syndicate Limited|PRAENG|0.075758|20|
+2022-11-29|KIOCL Limited|KIOCL|0.074276|21|
+2022-11-29|Dhanlaxmi Bank Limited|DHANBANK|0.072607|22|
+2022-11-29|JHS Svendgaard Laboratories Limited|JHS|0.072072|23|
+2022-11-29|Prism Johnson Limited|PRSMJOHNSN|0.070632|24|
+2022-11-29|Dhampur Bio Organics Limited|DBOL|0.070019|25|
+2022-11-30|HLV LIMITED|HLVLTD|0.189189|1|
+2022-11-30|Kridhan Infra Limited|KRIDHANINF|0.173913|2|
+2022-11-30|Tarmat Limited|TARMAT|0.15665|3|
+2022-11-30|Rajnandini Metal Limited|RAJMET|0.146953|4|
+2022-11-30|Cubex Tubings Limited|CUBEXTUB|0.139262|5|
+2022-11-30|Bhandari Hosiery Exports Limited|BHANDARI|0.136752|6|
+2022-11-30|Likhitha Infrastructure Limited|LIKHITHA|0.126499|7|
+2022-11-30|Simplex Infrastructures Limited|SIMPLEXINF|0.115741|8|
+2022-11-30|Isgec Heavy Engineering Limited|ISGEC|0.100953|9|
+2022-11-30|Taj GVK Hotels & Resorts Limited|TAJGVK|0.100049|10|
+2022-11-30|The State Trading Corporation of India Limited|STCINDIA|0.097978|11|
+2022-11-30|Salasar Techno Engineering Limited|SALASAR|0.096124|12|
+2022-11-30|DCM  Limited|DCM|0.091228|13|
+2022-11-30|Rico Auto Industries Limited|RICOAUTO|0.090103|14|
+2022-11-30|Varun Beverages Limited|VBL|0.085795|15|
+2022-11-30|Go Fashion (India) Limited|GOCOLORS|0.084827|16|
+2022-11-30|Housing & Urban Development Corporation Limited|HUDCO|0.084435|17|
+2022-11-30|Mukand Limited|MUKANDLTD|0.083132|18|
+2022-11-30|Sakar Healthcare Limited|SAKAR|0.0806|19|
+2022-11-30|Morarjee Textiles Limited|MORARJEE|0.080189|20|
+2022-11-30|AVRO INDIA LIMITED|AVROIND|0.078864|21|
+2022-11-30|Euro India Fresh Foods Limited|EIFFL|0.078363|22|
+2022-11-30|Lemon Tree Hotels Limited|LEMONTREE|0.077416|23|
+2022-11-30|Esab India Limited|ESABINDIA|0.077313|24|
+2022-11-30|Grauer & Weil (India) Limited|GRAUWEIL|0.073981|25|
+2022-12-01|Premier Polyfilm Limited|PREMIERPOL|0.217871|1|
+2022-12-01|Weizmann Limited|WEIZMANIND|0.161367|2|
+2022-12-01|Sadbhav Engineering Limited|SADBHAV|0.15|3|
+2022-12-01|HPL Electric & Power Limited|HPL|0.137443|4|
+2022-12-01|Chemplast Sanmar Limited|CHEMPLASTS|0.121907|5|
+2022-12-01|Axita Cotton Limited|AXITA|0.116667|6|
+2022-12-01|Hindustan Motors Limited|HINDMOTORS|0.090909|7|
+2022-12-01|Jaiprakash Associates Limited|JPASSOCIAT|0.080808|8|
+2022-12-01|Maral Overseas Limited|MARALOVER|0.078295|9|
+2022-12-01|L&T Technology Services Limited|LTTS|0.07544|10|
+2022-12-01|Salasar Techno Engineering Limited|SALASAR|0.073204|11|
+2022-12-01|Amj Land Holdings Limited|AMJLAND|0.069519|12|
+2022-12-01|Orient Green Power Company Limited|GREENPOWER|0.068571|13|
+2022-12-01|TV18 Broadcast Limited|TV18BRDCST|0.065421|14|
+2022-12-01|Network18 Media & Investments Limited|NETWORK18|0.06454|15|
+2022-12-01|Dhanlaxmi Bank Limited|DHANBANK|0.06383|16|
+2022-12-01|Max Ventures and Industries Limited|MAXVIL|0.063272|17|
+2022-12-01|Subex Limited|SUBEXLTD|0.060559|18|
+2022-12-01|Sagar Cements Limited|SAGCEM|0.060275|19|
+2022-12-01|Hatsun Agro Product Limited|HATSUN|0.060003|20|
+2022-12-01|SIL Investments Limited|SILINV|0.059936|21|
+2022-12-01|Faze Three Limited|FAZE3Q|0.059408|22|
+2022-12-01|Timken India Limited|TIMKEN|0.057018|23|
+2022-12-01|Ircon International Limited|IRCON|0.056732|24|
+2022-12-01|Sakuma Exports Limited|SAKUMA|0.053156|25|
+2022-12-02|Skipper Limited|SKIPPER|0.205882|1|
+2022-12-02|Country Condo's Limited|COUNCODOS|0.195122|2|
+2022-12-02|Bajaj Hindusthan Sugar Limited|BAJAJHIND|0.19469|3|
+2022-12-02|Raymond Limited|RAYMOND|0.17438|4|
+2022-12-02|Pearl Polymers Limited|PEARLPOLY|0.173494|5|
+2022-12-02|Tokyo Plast International Limited|TOKYOPLAST|0.110822|6|
+2022-12-02|Delta Manufacturing Limited|DELTAMAGNT|0.106546|7|
+2022-12-02|Likhitha Infrastructure Limited|LIKHITHA|0.104646|8|
+2022-12-02|Moksh Ornaments Limited|MOKSH|0.098814|9|
+2022-12-02|Hindware Home Innovation Limited|HINDWAREAP|0.092815|10|
+2022-12-02|Ramky Infrastructure Limited|RAMKY|0.091315|11|
+2022-12-02|Hindustan Construction Company Limited|HCC|0.091176|12|
+2022-12-02|Rico Auto Industries Limited|RICOAUTO|0.086255|13|
+2022-12-02|Sakthi Sugars Limited|SAKHTISUG|0.081776|14|
+2022-12-02|Mtar Technologies Limited|MTARTECH|0.081125|15|
+2022-12-02|Nelcast Limited|NELCAST|0.079545|16|
+2022-12-02|Aspinwall and Company Limited|ASPINWALL|0.07896|17|
+2022-12-02|Airo Lam limited|AIROLAM|0.078522|18|
+2022-12-02|Aarey Drugs & Pharmaceuticals Limited|AAREYDRUGS|0.076613|19|
+2022-12-02|Rajshree Sugars & Chemicals Limited|RAJSREESUG|0.075294|20|
+2022-12-02|Ace Integrated Solutions Limited|ACEINTEG|0.075167|21|
+2022-12-02|Kothari Sugars And Chemicals Limited|KOTARISUG|0.072215|22|
+2022-12-02|GE Power India Limited|GEPIL|0.071056|23|
+2022-12-02|Pearl Global Industries Limited|PGIL|0.070337|24|
+2022-12-02|HLE Glascoat Limited|HLEGLAS|0.069876|25|
+2022-12-05|Yaari Digital Integrated Services Limited|YAARI|0.187919|1|
+2022-12-05|SEPC Limited|SEPC|0.168675|2|
+2022-12-05|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|0.166667|3|
+2022-12-05|Satin Creditcare Network Limited|SATIN|0.163501|4|
+2022-12-05|Sadbhav Engineering Limited|SADBHAV|0.155556|5|
+2022-12-05|Alpa Laboratories Limited|ALPA|0.147273|6|
+2022-12-05|Country Condo's Limited|COUNCODOS|0.147059|7|
+2022-12-05|Sharda Cropchem Limited|SHARDACROP|0.139931|8|
+2022-12-05|Nagreeka Exports Limited|NAGREEKEXP|0.135231|9|
+2022-12-05|GTL Infrastructure Limited|GTLINFRA|0.12|10|
+2022-12-05|Indian Terrain Fashions Limited|INDTERRAIN|0.11987|11|
+2022-12-05|JK Lakshmi Cement Limited|JKLAKSHMI|0.102598|12|
+2022-12-05|The Hi-Tech Gears Limited|HITECHGEAR|0.101857|13|
+2022-12-05|Tega Industries Limited|TEGA|0.1|14|
+2022-12-05|GTL Limited|GTL|0.099338|15|
+2022-12-05|Bajaj Hindusthan Sugar Limited|BAJAJHIND|0.094595|16|
+2022-12-05|Tourism Finance Corporation of India Limited|TFCILTD|0.094231|17|
+2022-12-05|TTK Healthcare Limited|TTKHLTCARE|0.092892|18|
+2022-12-05|Kirloskar Electric Company Limited|KECL|0.091667|19|
+2022-12-05|Tracxn Technologies Limited|TRACXN|0.091549|20|
+2022-12-05|The Jammu & Kashmir Bank Limited|J&KBANK|0.090426|21|
+2022-12-05|Donear Industries Limited|DONEAR|0.089541|22|
+2022-12-05|Arvee Laboratories (India) Limited|ARVEE|0.085701|23|
+2022-12-05|Advanced Enzyme Technologies Limited|ADVENZYMES|0.082658|24|
+2022-12-05|Nectar Lifesciences Limited|NECLIFE|0.082547|25|
+2022-12-06|Univastu India Limited|UNIVASTU|0.21218|1|
+2022-12-06|Five-Star Business Finance Limited|FIVESTAR|0.207773|2|
+2022-12-06|Punjab & Sind Bank|PSB|0.175197|3|
+2022-12-06|Dhunseri Tea & Industries Limited|DTIL|0.171865|4|
+2022-12-06|Tijaria Polypipes Limited|TIJARIA|0.161616|5|
+2022-12-06|Sumeet Industries Limited|SUMEETINDS|0.137615|6|
+2022-12-06|Jagsonpal Pharmaceuticals Limited|JAGSNPHARM|0.10861|7|
+2022-12-06|Kothari Petrochemicals Limited|KOTHARIPET|0.102072|8|
+2022-12-06|Jindal Stainless Limited|JSL|0.099777|9|
+2022-12-06|PNC Infratech Limited|PNCINFRA|0.094961|10|
+2022-12-06|Ponni Sugars (Erode) Limited|PONNIERODE|0.094705|11|
+2022-12-06|Navkar Corporation Limited|NAVKARCORP|0.094068|12|
+2022-12-06|Indbank Merchant Banking Services Limited|INDBANK|0.093863|13|
+2022-12-06|TARC Limited|TARC|0.090703|14|
+2022-12-06|Donear Industries Limited|DONEAR|0.088417|15|
+2022-12-06|Tracxn Technologies Limited|TRACXN|0.0869|16|
+2022-12-06|Zenith Steel Pipes & Industries Limited|ZENITHSTL|0.082474|17|
+2022-12-06|DPSC Limited|DPSCLTD|0.081784|18|
+2022-12-06|Somi Conveyor Beltings Limited|SOMICONVEY|0.078652|19|
+2022-12-06|IDBI Bank Limited|IDBI|0.077064|20|
+2022-12-06|NK Industries Limited|NKIND|0.076923|21|
+2022-12-06|Equitas Small Finance Bank Limited|EQUITASBNK|0.074545|22|
+2022-12-06|Refex Industries Limited|REFEX|0.074126|23|
+2022-12-06|Gujarat Lease Financing Limited|GLFL|0.072727|24|
+2022-12-06|Kaushalya Infrastructure Development Corporation Limited|KAUSHALYA|0.072|25|
+2022-12-07|BLB Limited|BLBLIMITED|0.213918|1|
+2022-12-07|HEC Infra Projects Limited|HECPROJECT|0.199362|2|
+2022-12-07|Landmark Property Development Company Limited|LPDC|0.188525|3|
+2022-12-07|Burnpur Cement Limited|BURNPUR|0.186275|4|
+2022-12-07|Nitco Limited|NITCO|0.182203|5|
+2022-12-07|Kanpur Plastipack Limited|KANPRPLA|0.171579|6|
+2022-12-07|Raj Television Network Limited|RAJTV|0.169231|7|
+2022-12-07|Next Mediaworks Limited|NEXTMEDIA|0.160714|8|
+2022-12-07|Siti Networks Limited|SITINET|0.15625|9|
+2022-12-07|Agri-Tech (India) Limited|AGRITECH|0.15537|10|
+2022-12-07|Optiemus Infracom Limited|OPTIEMUS|0.148478|11|
+2022-12-07|Wealth First Portfolio Managers Limited|WEALTH|0.142104|12|
+2022-12-07|Mittal Life Style Limited|MITTAL|0.138528|13|
+2022-12-07|Cubex Tubings Limited|CUBEXTUB|0.124675|14|
+2022-12-07|Lasa Supergenerics Limited|LASA|0.116535|15|
+2022-12-07|Gokul Agro Resources Limited|GOKULAGRO|0.114671|16|
+2022-12-07|Hercules Hoists Limited|HERCULES|0.114433|17|
+2022-12-07|Kanani Industries Limited|KANANIIND|0.11215|18|
+2022-12-07|PPAP Automotive Limited|PPAP|0.110177|19|
+2022-12-07|Gyscoal Alloys Limited|GAL|0.109091|20|
+2022-12-07|Fertilizers and Chemicals Travancore Limited|FACT|0.10061|21|
+2022-12-07|Hikal Limited|HIKAL|0.09632|22|
+2022-12-07|Gujarat Ambuja Exports Limited|GAEL|0.083883|23|
+2022-12-07|SECUREKLOUD TECHNOLOGIES LIMITED|SECURKLOUD|0.083866|24|
+2022-12-07|GTL Limited|GTL|0.083333|25|
+2022-12-08|Simplex Infrastructures Limited|SIMPLEXINF|0.14413|1|
+2022-12-08|TruCap Finance Limited|TRU|0.141295|2|
+2022-12-08|DiGiSPICE Technologies Limited|DIGISPICE|0.140039|3|
+2022-12-08|Skipper Limited|SKIPPER|0.139757|4|
+2022-12-08|Aurionpro Solutions Limited|AURIONPRO|0.138517|5|
+2022-12-08|Crown Lifters Limited|CROWN|0.131953|6|
+2022-12-08|Venky's (India) Limited|VENKEYS|0.120438|7|
+2022-12-08|Optiemus Infracom Limited|OPTIEMUS|0.118966|8|
+2022-12-08|Central Bank of India|CENTRALBK|0.107018|9|
+2022-12-08|KEC International Limited|KEC|0.100987|10|
+2022-12-08|Punjab & Sind Bank|PSB|0.097054|11|
+2022-12-08|AAA Technologies Limited|AAATECH|0.093651|12|
+2022-12-08|Uniinfo Telecom Services Limited|UNIINFO|0.089744|13|
+2022-12-08|Chemplast Sanmar Limited|CHEMPLASTS|0.088088|14|
+2022-12-08|Ind-Swift Laboratories Limited|INDSWFTLAB|0.08214|15|
+2022-12-08|Karur Vysya Bank Limited|KARURVYSYA|0.081951|16|
+2022-12-08|Energy Development Company Limited|ENERGYDEV|0.081585|17|
+2022-12-08|The Jammu & Kashmir Bank Limited|J&KBANK|0.079685|18|
+2022-12-08|Pricol Limited|PRICOLLTD|0.07748|19|
+2022-12-08|PTL Enterprises Limited|PTL|0.077044|20|
+2022-12-08|SEPC Limited|SEPC|0.076555|21|
+2022-12-08|Navkar Corporation Limited|NAVKARCORP|0.075337|22|
+2022-12-08|Madhav Copper Limited|MCL|0.072243|23|
+2022-12-08|Bank of India|BANKINDIA|0.070513|24|
+2022-12-08|Bharat Road Network Limited|BRNL|0.069057|25|
+2022-12-09|Vaishali Pharma Limited|VAISHALI|0.184274|1|
+2022-12-09|Yes Bank Limited|YESBANK|0.112994|2|
+2022-12-09|Optiemus Infracom Limited|OPTIEMUS|0.110805|3|
+2022-12-09|Sagardeep Alloys Limited|SAGARDEEP|0.105634|4|
+2022-12-09|Cubex Tubings Limited|CUBEXTUB|0.102564|5|
+2022-12-09|Rajdarshan Industries Limited|ARENTERP|0.098649|6|
+2022-12-09|Lloyds Steels Industries Limited|LSIL|0.09434|7|
+2022-12-09|Excel Realty N Infra Limited|EXCEL|0.090909|8|
+2022-12-09|Sonam Clock Limited|SONAMCLOCK|0.08627|9|
+2022-12-09|Kamat Hotels (I) Limited|KAMATHOTEL|0.081545|10|
+2022-12-09|Kothari Products Limited|KOTHARIPRO|0.078843|11|
+2022-12-09|TruCap Finance Limited|TRU|0.07033|12|
+2022-12-09|Jayaswal Neco Industries Limited|JAYNECOIND|0.068441|13|
+2022-12-09|Crown Lifters Limited|CROWN|0.066286|14|
+2022-12-09|Heads UP Ventures Limited|HEADSUP|0.062257|15|
+2022-12-09|JMC Projects (India)  Limited|JMCPROJECT|0.058777|16|
+2022-12-09|GRM Overseas Limited|GRMOVER|0.055387|17|
+2022-12-09|Dev Information Technology Limited|DEVIT|0.055372|18|
+2022-12-09|Ace Integrated Solutions Limited|ACEINTEG|0.053903|19|
+2022-12-09|Sanginita Chemicals Limited|SANGINITA|0.050343|20|
+2022-12-09|Tracxn Technologies Limited|TRACXN|0.050269|21|
+2022-12-09|Mahanagar Telephone Nigam Limited|MTNL|0.049587|22|
+2022-12-09|Norben Tea & Exports Limited|NORBTEAEXP|0.046667|23|
+2022-12-09|Supreme Infrastructure India Limited|SUPREMEINF|0.045131|24|
+2022-12-09|AXISCADES Technologies Limited|AXISCADES|0.044417|25|
+2022-12-12|BLB Limited|BLBLIMITED|0.148325|1|
+2022-12-12|Creative Newtech Limited|CREATIVE|0.14789|2|
+2022-12-12|Fertilizers and Chemicals Travancore Limited|FACT|0.125555|3|
+2022-12-12|Madhav Copper Limited|MCL|0.123558|4|
+2022-12-12|Dhanlaxmi Bank Limited|DHANBANK|0.104558|5|
+2022-12-12|Suzlon Energy Limited|SUZLON|0.102151|6|
+2022-12-12|Jindal Stainless Limited|JSL|0.100797|7|
+2022-12-12|Salasar Techno Engineering Limited|SALASAR|0.1|8|
+2022-12-12|SEPC Limited|SEPC|0.1|9|
+2022-12-12|Rossell India Limited|ROSSELLIND|0.096238|10|
+2022-12-12|Softtech Engineers Limited|SOFTTECH|0.095074|11|
+2022-12-12|Jaiprakash Power Ventures Limited|JPPOWER|0.092105|12|
+2022-12-12|HEC Infra Projects Limited|HECPROJECT|0.087571|13|
+2022-12-12|Tembo Global Industries Limited|TEMBO|0.086818|14|
+2022-12-12|Vinny Overseas Limited|VINNY|0.085729|15|
+2022-12-12|Tips Films Limited|TIPSFILMS|0.08523|16|
+2022-12-12|VA Tech Wabag Limited|WABAG|0.083395|17|
+2022-12-12|Nelcast Limited|NELCAST|0.082613|18|
+2022-12-12|Mangalam Global Enterprise Limited|MGEL|0.082583|19|
+2022-12-12|National Fertilizers Limited|NFL|0.082403|20|
+2022-12-12|SBC Exports Limited|SBC|0.081356|21|
+2022-12-12|Total Transport Systems Limited|TOTAL|0.08121|22|
+2022-12-12|Tracxn Technologies Limited|TRACXN|0.080388|23|
+2022-12-12|Punjab & Sind Bank|PSB|0.079942|24|
+2022-12-12|Indian Railway Finance Corporation Limited|IRFC|0.077419|25|
+2022-12-13|Palash Securities Limited|PALASHSECU|0.216004|1|
+2022-12-13|Siti Networks Limited|SITINET|0.2|2|
+2022-12-13|UCO Bank|UCOBANK|0.185714|3|
+2022-12-13|Indbank Merchant Banking Services Limited|INDBANK|0.177778|4|
+2022-12-13|Central Bank of India|CENTRALBK|0.166421|5|
+2022-12-13|Indian Overseas Bank|IOB|0.125912|6|
+2022-12-13|Yes Bank Limited|YESBANK|0.113954|7|
+2022-12-13|Sakuma Exports Limited|SAKUMA|0.113565|8|
+2022-12-13|Housing & Urban Development Corporation Limited|HUDCO|0.104313|9|
+2022-12-13|Arrow Greentech Limited|ARROWGREEN|0.099798|10|
+2022-12-13|Seamec Limited|SEAMECLTD|0.098232|11|
+2022-12-13|Vardhman Special Steels Limited|VSSL|0.096878|12|
+2022-12-13|Dhanlaxmi Bank Limited|DHANBANK|0.093607|13|
+2022-12-13|The Motor & General Finance Limited|MOTOGENFIN|0.092|14|
+2022-12-13|Bank of Maharashtra|MAHABANK|0.091973|15|
+2022-12-13|SECUREKLOUD TECHNOLOGIES LIMITED|SECURKLOUD|0.087402|16|
+2022-12-13|Fino Payments Bank Limited|FINOPB|0.087284|17|
+2022-12-13|Vardhman Acrylics Limited|VARDHACRLC|0.085478|18|
+2022-12-13|Worth Peripherals Limited|WORTH|0.080995|19|
+2022-12-13|Indian Bank|INDIANB|0.080882|20|
+2022-12-13|The Byke Hospitality Ltd|BYKE|0.08042|21|
+2022-12-13|United Drilling Tools Limited|UNIDT|0.079507|22|
+2022-12-13|Genus Power Infrastructures Limited|GENUSPOWER|0.077457|23|
+2022-12-13|Equitas Small Finance Bank Limited|EQUITASBNK|0.07719|24|
+2022-12-13|Simplex Infrastructures Limited|SIMPLEXINF|0.074615|25|
