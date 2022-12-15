@@ -1,0 +1,26 @@
+Rank|Name|Symbol |
+1|Palash Securities Limited|PALASHSECU|
+2|Siti Networks Limited|SITINET|
+3|UCO Bank|UCOBANK|
+4|Indbank Merchant Banking Services Limited|INDBANK|
+5|Central Bank of India|CENTRALBK|
+6|Indian Overseas Bank|IOB|
+7|Yes Bank Limited|YESBANK|
+8|Sakuma Exports Limited|SAKUMA|
+9|Housing & Urban Development Corporation Limited|HUDCO|
+10|Arrow Greentech Limited|ARROWGREEN|
+11|Seamec Limited|SEAMECLTD|
+12|Vardhman Special Steels Limited|VSSL|
+13|Dhanlaxmi Bank Limited|DHANBANK|
+14|The Motor & General Finance Limited|MOTOGENFIN|
+15|Bank of Maharashtra|MAHABANK|
+16|SECUREKLOUD TECHNOLOGIES LIMITED|SECURKLOUD|
+17|Fino Payments Bank Limited|FINOPB|
+18|Vardhman Acrylics Limited|VARDHACRLC|
+19|Worth Peripherals Limited|WORTH|
+20|Indian Bank|INDIANB|
+21|The Byke Hospitality Ltd|BYKE|
+22|United Drilling Tools Limited|UNIDT|
+23|Genus Power Infrastructures Limited|GENUSPOWER|
+24|Equitas Small Finance Bank Limited|EQUITASBNK|
+25|Simplex Infrastructures Limited|SIMPLEXINF|

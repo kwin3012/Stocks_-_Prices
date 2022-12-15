@@ -105,13 +105,22 @@ mycursor.executemany(sql, val)
 mydb.commit()
 print(mycursor.rowcount, "was inserted.")
 
-# FINAL QUERY
-mycursor.execute("""SELECT symbol from prices
-    where series = "EQ" 
-    order by (close_price-open_price)/open_price
+answer = []
+f1 = open('Query_1_Output.txt', 'w')
+answer.append("Rank" + "|" + "Name" + "|" + "Symbol " + "|" + "\n")
+
+# FINAL QUERY 1
+mycursor.execute("""SELECT stocks.name,prices.symbol from stocks,prices
+    where prices.series = "EQ" AND stocks.symbol = prices.symbol
+    order by (prices.close_price-prices.open_price)/prices.open_price DESC
     limit 25""")
+i = 1
 for x in mycursor:
-    print(*x)
+    answer.append(str(i) + "|" + x[0] + "|" + x[1] + "|" + "\n")
+    i+=1
+
+f1.writelines(answer)
+f1.close()
 
 
 print("Excution Successfull")
