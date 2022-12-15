@@ -1,0 +1,26 @@
+Rank|Name|Symbol |
+1|Punjab & Sind Bank|PSB
+2|UCO Bank|UCOBANK
+3|United Polyfab Gujarat Limited|UNITEDPOLY
+4|Dhanlaxmi Bank Limited|DHANBANK
+5|Central Bank of India|CENTRALBK
+6|Rajdarshan Industries Limited|ARENTERP
+7|Refex Industries Limited|REFEX
+8|Rail Vikas Nigam Limited|RVNL
+9|Skipper Limited|SKIPPER
+10|SBC Exports Limited|SBC
+11|Union Bank of India|UNIONBANK
+12|The Karnataka Bank Limited|KTKBANK
+13|Bank of India|BANKINDIA
+14|Salasar Techno Engineering Limited|SALASAR
+15|Indian Overseas Bank|IOB
+16|SEPC Limited|SEPC
+17|Fertilizers and Chemicals Travancore Limited|FACT
+18|Tijaria Polypipes Limited|TIJARIA
+19|JK Lakshmi Cement Limited|JKLAKSHMI
+20|Bank of Maharashtra|MAHABANK
+21|Jindal Stainless Limited|JSL
+22|Cubex Tubings Limited|CUBEXTUB
+23|SecUR Credentials Limited|SECURCRED
+24|Linc Limited|LINC
+25|The Jammu & Kashmir Bank Limited|J&KBANK

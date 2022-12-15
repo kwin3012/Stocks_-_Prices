@@ -6,8 +6,8 @@ import datetime
 # 1) Connect to the database
 mydb = mysql.connector.connect(
   host="localhost",
-  user="root",
-  password="admin@123",
+  user="user",
+  password="password",
   database="stocks_assignment"
 )
 
@@ -78,30 +78,48 @@ for x in mycursor:
     print(x)
 
 
-# Note: the 30day_prices table contains around 70000 rows 2300 data rows for each day i.e 2300x30.  
+# Note: the 30day_prices table contains around 70000 rows 2300 data rows for each day i.e 2300x30.
+
+# answer2 = []
+f2 = open('Query_2_Output.txt', 'w')
+answer2.append("Date" + "|" + "Name" + "|" + "Symbol " + "|" + "Respective Rank" + "|" + "\n")  
 
 # FINAL QUERY 2
 mycursor.execute("""select * from 
-    (select date, symbol, row_number() over (partition by date order by (close_price-open_price)/open_price desc) as stock_rank           
-    from 30day_prices
-    where series = "EQ") ranks
+    (select 30day_prices.date, stocks.name, 30day_prices.symbol, row_number() over (partition by date order by (30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price desc) as stock_rank           
+    from stocks,30day_prices
+    where 30day_prices.series = "EQ" AND stocks.symbol = 30day_prices.symbol) ranks
     where stock_rank<=25
     """)
 for x in mycursor:
-    print(*x)
+    answer2.append(str(x[0]) + "|" + x[1] + "|" + x[2] + "|" + str(x[3]) + "|" + "\n")
+
+f2.writelines(answer2)
+f2.close()
+
+
+answer3 = []
+f3 = open('Query_3_Output.txt', 'w')
+answer3.append("Rank" + "|" + "Name" + "|" + "Symbol " + "|" + "\n")  
+
 
 # FINAL QUERY 3
-mycursor.execute("""select symbol as sym     
-    from 30day_prices
-    where series = "EQ"
-    group by symbol
-    having count(date)=30
+mycursor.execute("""select stocks.name, 30day_prices.symbol as sym     
+    from stocks,30day_prices
+    where 30day_prices.series = "EQ" AND  stocks.symbol = 30day_prices.symbol
+    group by 30day_prices.symbol
+    having count(30day_prices.date)=30
     order by ((select close_price from 30day_prices where symbol=sym AND date="2022-12-13" AND series = "EQ"
     group by symbol) - (select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
     group by symbol))/(select open_price from 30day_prices where symbol=sym AND date="2022-11-01" AND series = "EQ"
     group by symbol) DESC limit 25
     """)
+i = 1
 for x in mycursor:
-    print(*x)
+    answer3.append(str(i) + "|" + x[0] + "|" + x[1] + "\n")
+    i+=1
+
+f3.writelines(answer3)
+f3.close()
 
 print("Excecution Successfull")
