@@ -1,3 +1,6 @@
+# This is same code implementing Indexing on prices table to query fast on required dates
+# Note: using indexing will result in faster quering but slow future updates on tables.
+
 import pandas as pd
 from urllib.error import HTTPError
 import mysql.connector
@@ -6,8 +9,8 @@ import datetime
 # 1) Connect to the database
 mydb = mysql.connector.connect(
   host="localhost",
-  user="user",
-  password="password",
+  user="root",
+  password="admin@123",
   database="stocks_assignment"
 )
 
@@ -20,10 +23,9 @@ for x in mycursor:
   print(x)
 
 # 4) Created table to store last 30 day data using below command
-mycursor.execute( """CREATE TABLE 30day_prices (
+mycursor.execute( """CREATE TABLE 30day_prices2 (
   symbol VARCHAR(15) NOT NULL,
   date DATE NOT NULL,
-  series VARCHAR(255) NOT NULL,
   open_price FLOAT(10,2) NOT NULL,
   close_price FLOAT(10,2) NOT NULL
   );"""
@@ -31,21 +33,24 @@ mycursor.execute( """CREATE TABLE 30day_prices (
 
 # 5) Prepared a python function to insert data into tables
 def insert_into_table(bhavcopy,date):
-    sql = "INSERT INTO 30day_prices (symbol,date,open_price, close_price,series) VALUES (%s,%s, %s, %s,%s)"
+    sql = "INSERT INTO 30day_prices2 (symbol,date,open_price,close_price) VALUES (%s,%s,%s,%s)"
     val = []
     for row in bhavcopy.itertuples():
         symbol=str(row[1])
         series = str(row[2])
         open_price=float(row[3])
         close_price=float(row[6])
-        val.append((symbol,date,open_price,close_price,series))
+        if series == "EQ":
+            val.append((symbol,date,open_price,close_price))
 
+    # for row in val:
+    #     print(row)
     mycursor.executemany(sql, val)
     mydb.commit()
     print(mycursor.rowcount, "was inserted.")
 
 # 6) Preparing a python template to fetch the data for last 30 days
-i = 1
+i = 3
 todays_date = datetime.datetime.now()
 date_count = 0
 while(date_count<30):
@@ -72,49 +77,19 @@ while(date_count<30):
     i+=1
 
 
-# 7) selecting the data for checking once
-mycursor.execute("SELECT * FROM 30day_prices")
-for x in mycursor:
-    print(x)
+# 7) This is most important step to query fast
+mycursor.execute("CREATE INDEX date_index ON 30day_prices2(date)")
 
-
-# Note: the 30day_prices table contains around 70000 rows 2300 data rows for each day i.e 2300x30.
-
-answer2 = []
-f2 = open('Query_2_Output.txt', 'w')
-answer2.append("Date" + "|" + "Name" + "|" + "Symbol" + "|" + "Gains" + "|" + "Respective Rank" + "|" + "\n")  
-
-# FINAL QUERY 2
-mycursor.execute("""select * from 
-    (select 30day_prices.date, stocks.name, 30day_prices.symbol, ((30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price), row_number() over (partition by date order by (30day_prices.close_price-30day_prices.open_price)/30day_prices.open_price desc) as stock_rank           
-    from stocks,30day_prices
-    where 30day_prices.series = "EQ" AND stocks.symbol = 30day_prices.symbol) ranks
-    where stock_rank<=25
-    """)
-for x in mycursor:
-    answer2.append(str(x[0]) + "|" + x[1] + "|" + x[2] + "|" + str(x[3]) + "|" + str(x[4]) + "|" + "\n")
-
-f2.writelines(answer2)
-f2.close()
-
-
-
-
-
-# Note: the below query is taking few minutes because we use brute force approach to calculate our answer.
-# We can further optimize the runtime by using the concept of INDEXING on date column
 answer3 = []
-f3 = open('Query_3_Output.txt', 'w')
+f3 = open('Query_3_Output_op.txt', 'w')
 answer3.append("Rank" + "|" + "Name" + "|" + "Symbol" + "|" + "Gains" + "|" + "\n")  
 
-
-# FINAL QUERY 3
-mycursor.execute("""select stocks.name, 30day_prices.symbol as sym, ((select A.close_price from 30day_prices A where A.symbol=sym AND A.date="2022-12-13" AND A.series = "EQ") - (select B.open_price from 30day_prices B where B.symbol=sym AND B.date="2022-11-01" AND B.series = "EQ"
-    ))/(select C.open_price from 30day_prices C where C.symbol=sym AND C.date="2022-11-01" AND C.series = "EQ") as gains   
-    from stocks,30day_prices
-    where 30day_prices.series = "EQ" AND  stocks.symbol = 30day_prices.symbol
-    group by 30day_prices.symbol 
-    having count(30day_prices.date)=30
+# # FINAL QUERY 3
+mycursor.execute("""select stocks.name, 30day_prices2.symbol as sym, ((select A.close_price from 30day_prices2 A where A.symbol=sym AND A.date="2022-12-13") - (select B.open_price from 30day_prices2 B where B.symbol=sym AND B.date="2022-11-01"))/(select C.open_price from 30day_prices2 C where C.symbol=sym AND C.date="2022-11-01") as gains   
+    from stocks,30day_prices2
+    where stocks.symbol = 30day_prices2.symbol
+    group by 30day_prices2.symbol 
+    having count(30day_prices2.date)=30
     order by gains
     DESC limit 25
     """)

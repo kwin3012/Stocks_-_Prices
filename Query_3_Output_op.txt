@@ -1,0 +1,26 @@
+Rank|Name|Symbol|Gains|
+1|Punjab & Sind Bank|PSB|1.475757
+2|UCO Bank|UCOBANK|1.18421
+3|United Polyfab Gujarat Limited|UNITEDPOLY|1.10087
+4|Dhanlaxmi Bank Limited|DHANBANK|0.987552
+5|Central Bank of India|CENTRALBK|0.941176
+6|Rajdarshan Industries Limited|ARENTERP|0.884058
+7|Refex Industries Limited|REFEX|0.85
+8|Rail Vikas Nigam Limited|RVNL|0.809227
+9|Skipper Limited|SKIPPER|0.795707
+10|SBC Exports Limited|SBC|0.785714
+11|Union Bank of India|UNIONBANK|0.729705
+12|The Karnataka Bank Limited|KTKBANK|0.698758
+13|Bank of India|BANKINDIA|0.682645
+14|Salasar Techno Engineering Limited|SALASAR|0.672384
+15|Indian Overseas Bank|IOB|0.663073
+16|SEPC Limited|SEPC|0.644172
+17|Fertilizers and Chemicals Travancore Limited|FACT|0.638524
+18|Tijaria Polypipes Limited|TIJARIA|0.622222
+19|JK Lakshmi Cement Limited|JKLAKSHMI|0.598276
+20|Bank of Maharashtra|MAHABANK|0.592683
+21|Jindal Stainless Limited|JSL|0.586648
+22|Cubex Tubings Limited|CUBEXTUB|0.584775
+23|SecUR Credentials Limited|SECURCRED|0.582278
+24|Linc Limited|LINC|0.564905
+25|The Jammu & Kashmir Bank Limited|J&KBANK|0.561224
